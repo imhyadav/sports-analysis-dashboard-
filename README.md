@@ -1,4 +1,4 @@
-# 🏟️ SportCast360: Sports Broadcast Analytics Dashboard
+# 🏟️ Sports Broadcast Analytics Dashboard
 
 This project presents an interactive **Sports Analytics Dashboard** built using **Power BI** to analyze and visualize broadcast performance metrics across different sports, regions, and broadcasters.
 
@@ -8,7 +8,7 @@ The dashboard helps stakeholders understand **viewer engagement**, **revenue tre
 
 ## 🚀 Project Overview
 
-The **SportCast360 Dashboard** consolidates sports broadcast data to uncover insights such as:
+The **Dashboard** consolidates sports broadcast data to uncover insights such as:
 - Total engagement across sports and broadcasters  
 - Revenue contribution by region and broadcaster  
 - Watch-time patterns by age group  
