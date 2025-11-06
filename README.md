@@ -40,7 +40,7 @@ The **Dashboard** consolidates sports broadcast data to uncover insights such as
 |------|--------------|
 | `SportCast360_Broadcast_Analytics.csv` | Source dataset used for analysis |
 | `sports analysis dashboard.jpeg` | Power BI dashboard screenshot |
-| *(Optional)* `SportCast360.pbix` | Power BI file for editing or further exploration |
+| `SportCast360.pbix` | Power BI file for editing or further exploration |
 
 ---
 
@@ -98,7 +98,7 @@ This dashboard helps sports broadcasters and analysts:
 
 Created by **HIMANSHU YADAV**  
 📧 himanshuyadavhimann@gmail.com  
-🔗 
+🔗 https://www.linkedin.com/in/himanshu-yadav-971226232/
 
 ---
 
