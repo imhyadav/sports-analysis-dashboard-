@@ -1,0 +1,1001 @@
+Region,State,Broadcaster,Sport,Event,Month,ViewershipCount,AvgWatchTime,Gender,AgeGroup,Likes,Dislikes,OnlineStreams,TVViewers,RevenueGenerated
+West,Goa,Star Sports,Cricket,World Cup,Jul,171958,34.3,Female,45+,45732,3192,44888,127070,126221.98
+West,Rajasthan,ESPN India,Hockey,Hockey India League,Sep,1049890,63.2,Male,35-44,45131,3019,493457,556433,1640042.48
+North,Punjab,Sony Sports,Cricket,World Cup,Oct,379365,90.8,Female,25-34,3433,1284,183263,196102,362810.79
+Central,Madhya Pradesh,Star Sports,Football,Santosh Trophy,Apr,1520485,17.4,Male,15-24,42434,1182,757020,763465,1672216.41
+South,Kerala,Star Sports,Tennis,India Tennis Cup,May,1248079,53.5,Female,35-44,1189,2834,514654,733425,1781731.39
+Central,Chhattisgarh,Sony Sports,Kabaddi,Pro Kabaddi League,Mar,641723,77.2,Male,15-24,12394,3656,221863,419860,905674.76
+South,Kerala,Sony Sports,Kabaddi,Pro Kabaddi League,May,539492,16.4,Female,15-24,9792,2463,196834,342658,725580.23
+West,Gujarat,ESPN India,Badminton,India Open,Jan,748361,25.3,Female,25-34,24483,1578,305793,442568,1058927.06
+South,Kerala,Star Sports,Kabaddi,Pro Kabaddi League,Jan,853591,110.5,Female,15-24,27531,1685,417990,435601,1275080.09
+East,West Bengal,Star Sports,Cricket,IPL,Jun,855889,36.8,Male,45+,41757,1600,318779,537110,1672729.73
+East,Assam,Jio Sports,Kabaddi,Pro Kabaddi League,Sep,1039913,56.5,Male,15-24,34763,3442,379645,660268,657993.25
+East,Odisha,DD Sports,Football,ISL,Jun,832038,115.9,Male,15-24,25276,437,286013,546025,1089585.54
+South,Kerala,Jio Sports,Badminton,Asia Championships,Feb,1447527,44.5,Female,25-34,9571,592,568841,878686,1029750.93
+South,Karnataka,Sony Sports,Hockey,Hockey India League,Dec,1936222,16.6,Male,15-24,3568,2127,872113,1064109,1820498.39
+South,Karnataka,Jio Sports,Football,Santosh Trophy,May,1802126,89.2,Female,35-44,14986,4614,460194,1341932,2985952.52
+West,Rajasthan,Jio Sports,Football,ISL,Dec,1399380,83.4,Male,45+,23662,300,310816,1088564,2008036.4
+South,Andhra Pradesh,Sony Sports,Kabaddi,Pro Kabaddi League,Feb,1474289,53.9,Male,35-44,12837,904,694946,779343,2350620.04
+North,Delhi,Sony Sports,Kabaddi,Pro Kabaddi League,Mar,1555127,73.9,Male,25-34,33482,2790,649396,905731,2552239.56
+South,Andhra Pradesh,Sony Sports,Kabaddi,Pro Kabaddi League,May,1089577,41.9,Female,45+,1206,1584,467652,621925,874471.4
+North,Haryana,Star Sports,Tennis,India Tennis Cup,May,1148591,48.0,Male,15-24,46151,1857,355003,793588,814347.78
+Central,Chhattisgarh,Sony Sports,Cricket,IPL,Jun,1825846,94.3,Female,35-44,34827,1822,688135,1137711,2815778.44
+West,Gujarat,DD Sports,Cricket,Ranji Trophy,Mar,465515,99.9,Male,25-34,45020,2793,102922,362593,551543.04
+Central,Madhya Pradesh,Star Sports,Kabaddi,Pro Kabaddi League,Apr,817595,108.7,Male,25-34,22834,1763,363036,454559,1399036.05
+West,Goa,ESPN India,Kabaddi,Pro Kabaddi League,Jan,458923,110.2,Female,35-44,31080,1406,180408,278515,523475.88
+East,West Bengal,Sony Sports,Tennis,Chennai Open,Oct,667075,47.0,Male,15-24,22959,4844,262981,404094,818664.43
+East,West Bengal,Star Sports,Cricket,Ranji Trophy,Jul,278576,50.4,Female,35-44,35766,3545,129271,149305,230701.69
+North,Uttar Pradesh,Sony Sports,Badminton,India Open,Jan,1691704,21.8,Female,45+,40353,4759,640901,1050803,1472313.83
+East,Bihar,Star Sports,Cricket,Ranji Trophy,Jan,115318,46.6,Male,45+,21080,3099,40457,74861,64039.59
+West,Rajasthan,DD Sports,Badminton,India Open,Jul,863168,58.2,Male,25-34,1854,3574,178690,684478,1312928.74
+West,Goa,Star Sports,Hockey,Hockey India League,Jan,792452,118.5,Female,15-24,22919,3610,279866,512586,1301546.48
+East,Bihar,Star Sports,Tennis,India Tennis Cup,Feb,1479626,99.3,Male,45+,41772,3031,632322,847304,2922460.67
+South,Andhra Pradesh,Sony Sports,Tennis,India Tennis Cup,May,1711909,24.5,Female,45+,26184,3372,580796,1131113,1679673.92
+North,Delhi,ESPN India,Hockey,Hockey India League,Jul,101663,77.0,Female,25-34,48011,1469,49588,52075,128922.87
+South,Andhra Pradesh,DD Sports,Kabaddi,Pro Kabaddi League,Jan,1860578,25.1,Male,45+,9680,3076,735673,1124905,2039859.63
+East,Odisha,Star Sports,Tennis,Chennai Open,Jan,793974,29.4,Female,15-24,9155,4161,173866,620108,1225639.08
+West,Maharashtra,ESPN India,Badminton,Asia Championships,Feb,197718,100.8,Male,45+,42976,3743,59712,138006,176214.93
+North,Haryana,Jio Sports,Kabaddi,Pro Kabaddi League,Mar,736976,109.2,Female,25-34,30855,4190,347904,389072,577096.91
+North,Haryana,Jio Sports,Cricket,World Cup,Nov,319544,91.2,Female,25-34,2154,4599,126296,193248,584966.72
+North,Delhi,ESPN India,Kabaddi,Pro Kabaddi League,Jan,438215,104.3,Female,45+,33711,1545,102398,335817,658848.53
+West,Maharashtra,ESPN India,Football,ISL,Apr,566349,25.7,Male,45+,17482,2300,281612,284737,287474.43
+North,Uttar Pradesh,ESPN India,Tennis,Chennai Open,Aug,752335,66.0,Male,35-44,47760,4167,307247,445088,1179863.53
+North,Delhi,Jio Sports,Badminton,India Open,Sep,1908336,33.8,Female,45+,23399,1318,671414,1236922,2836587.53
+West,Rajasthan,DD Sports,Cricket,Ranji Trophy,Aug,1929072,68.4,Male,45+,46525,3546,650557,1278515,1689274.32
+Central,Madhya Pradesh,DD Sports,Badminton,Asia Championships,Nov,166381,56.3,Female,45+,11677,3454,34624,131757,191602.95
+East,Bihar,Jio Sports,Kabaddi,Pro Kabaddi League,Mar,890477,85.2,Female,25-34,6600,4648,272904,617573,752700.53
+East,Odisha,Star Sports,Kabaddi,Pro Kabaddi League,Feb,779903,17.6,Male,25-34,45080,116,324259,455644,1553430.89
+North,Delhi,Sony Sports,Kabaddi,Pro Kabaddi League,Jun,986093,111.1,Female,35-44,48202,1160,210848,775245,1866159.15
+Central,Chhattisgarh,Jio Sports,Badminton,Asia Championships,Sep,1981760,75.1,Female,15-24,1699,1239,662246,1319514,1866170.55
+East,Assam,Jio Sports,Badminton,India Open,Jan,1476388,43.2,Female,15-24,20778,227,653637,822751,1563539.63
+North,Punjab,Jio Sports,Hockey,Hockey India League,Jun,738105,88.1,Female,45+,35663,2833,161759,576346,476642.18
+East,Bihar,Star Sports,Football,Santosh Trophy,Apr,1171567,52.7,Female,25-34,17538,2637,349897,821670,2127635.51
+North,Punjab,ESPN India,Hockey,Hockey India League,Sep,247392,29.3,Male,15-24,13533,2906,60710,186682,279471.64
+South,Karnataka,Sony Sports,Hockey,Hockey India League,Dec,1542785,110.9,Male,35-44,23009,3050,370081,1172704,1931990.23
+West,Rajasthan,Star Sports,Badminton,Asia Championships,Jan,1955324,22.4,Male,45+,41941,4595,863702,1091622,1126565.39
+Central,Madhya Pradesh,Sony Sports,Hockey,Hockey India League,Dec,1710786,54.4,Male,35-44,14121,2874,681922,1028864,2579932.36
+East,Bihar,Jio Sports,Badminton,India Open,Jul,168834,72.0,Female,25-34,23677,1815,60835,107999,94251.94
+South,Karnataka,ESPN India,Football,Santosh Trophy,May,234078,28.3,Female,15-24,49096,3224,91746,142332,212382.33
+South,Kerala,Star Sports,Badminton,India Open,Apr,1802683,24.0,Female,45+,1876,1091,564480,1238203,2338137.44
+North,Delhi,DD Sports,Hockey,Hockey India League,Mar,512894,29.5,Female,25-34,40567,4464,148815,364079,1002351.46
+South,Kerala,DD Sports,Cricket,World Cup,Nov,1079225,98.5,Female,35-44,18214,3775,435050,644175,1744096.63
+West,Gujarat,ESPN India,Hockey,Hockey India League,Jul,1648809,116.1,Female,15-24,2150,2031,811865,836944,1835832.44
+West,Goa,Jio Sports,Kabaddi,Pro Kabaddi League,Jun,1951625,61.4,Female,25-34,47175,659,439967,1511658,1511141.28
+South,Kerala,Sony Sports,Badminton,India Open,Oct,237628,115.3,Male,45+,30375,1570,98858,138770,274106.12
+North,Haryana,ESPN India,Kabaddi,Pro Kabaddi League,Jun,302764,41.0,Male,25-34,2679,3606,113271,189493,495554.78
+West,Goa,Star Sports,Kabaddi,Pro Kabaddi League,Apr,1052168,24.6,Male,45+,45078,2241,418170,633998,1876216.38
+East,Odisha,DD Sports,Kabaddi,Pro Kabaddi League,Apr,241475,16.8,Female,35-44,36247,4746,108037,133438,246173.25
+North,Punjab,DD Sports,Cricket,World Cup,Sep,1417293,56.8,Male,25-34,24049,2949,524179,893114,1263290.56
+East,West Bengal,DD Sports,Hockey,Hockey India League,Jul,770777,67.8,Female,15-24,42975,1448,240669,530108,1176163.81
+West,Goa,ESPN India,Kabaddi,Pro Kabaddi League,Mar,601951,82.5,Female,25-34,30168,995,288232,313719,875601.17
+East,Odisha,Sony Sports,Badminton,India Open,Apr,771747,55.8,Male,15-24,36195,1668,252638,519109,916356.44
+North,Delhi,DD Sports,Kabaddi,Pro Kabaddi League,Sep,937474,80.7,Male,45+,33320,4013,237939,699535,759378.82
+East,Assam,ESPN India,Kabaddi,Pro Kabaddi League,Aug,201836,25.6,Male,45+,13161,2646,96719,105117,288096.84
+North,Delhi,ESPN India,Tennis,India Tennis Cup,Mar,601638,48.5,Female,45+,16305,1725,287971,313667,608218.03
+South,Kerala,ESPN India,Hockey,Hockey India League,Jun,1942466,27.4,Male,25-34,25052,1616,806986,1135480,3700343.78
+South,Kerala,DD Sports,Hockey,Hockey India League,Sep,581831,99.4,Female,15-24,28384,775,162610,419221,445775.24
+West,Gujarat,Sony Sports,Tennis,Chennai Open,Feb,593176,75.5,Female,45+,18506,4179,195419,397757,410201.72
+Central,Chhattisgarh,Star Sports,Football,ISL,Oct,120640,50.8,Male,25-34,8357,4232,32221,88419,103496.49
+South,Andhra Pradesh,Sony Sports,Badminton,Asia Championships,Aug,725510,94.2,Male,45+,22352,4052,199326,526184,912603.47
+South,Kerala,Sony Sports,Badminton,India Open,Apr,1276607,46.3,Male,35-44,40954,495,489087,787520,2473824.68
+East,Bihar,ESPN India,Football,ISL,Jul,1823832,114.8,Male,15-24,33307,3677,737204,1086628,2640463.39
+North,Punjab,ESPN India,Badminton,Asia Championships,Nov,923332,78.3,Female,25-34,32667,3038,436264,487068,756293.71
+West,Goa,DD Sports,Badminton,Asia Championships,Aug,1741188,97.9,Female,15-24,19540,3082,457108,1284080,3471749.29
+Central,Madhya Pradesh,Star Sports,Football,Santosh Trophy,Mar,939465,108.2,Male,15-24,38098,4946,345292,594173,671236.02
+North,Punjab,Jio Sports,Football,ISL,Nov,1253273,106.0,Female,25-34,45261,1642,311954,941319,1427649.91
+East,Bihar,Star Sports,Badminton,India Open,Mar,1804279,101.3,Female,15-24,20065,1317,862755,941524,1122303.34
+West,Gujarat,ESPN India,Hockey,Hockey India League,Nov,1617908,76.0,Female,15-24,43348,1956,695752,922156,2945466.15
+West,Gujarat,Sony Sports,Tennis,India Tennis Cup,Apr,1583584,118.5,Male,45+,26731,1927,341778,1241806,1685549.99
+South,Andhra Pradesh,Star Sports,Football,Santosh Trophy,Jun,69870,54.7,Female,25-34,27790,4286,24839,45031,61002.54
+North,Haryana,Star Sports,Tennis,India Tennis Cup,Feb,799074,66.7,Female,25-34,5748,4949,372881,426193,961278.8
+East,Bihar,ESPN India,Football,ISL,Oct,698249,95.6,Female,45+,26470,1484,193910,504339,1128592.07
+Central,Madhya Pradesh,DD Sports,Hockey,Hockey India League,Jun,1662162,116.0,Female,45+,34982,1631,540185,1121977,1543430.66
+West,Maharashtra,ESPN India,Football,Santosh Trophy,Jun,1918599,60.8,Male,35-44,3105,3727,655181,1263418,3773598.37
+West,Gujarat,DD Sports,Football,Santosh Trophy,Feb,1514492,108.6,Male,35-44,28509,3384,737637,776855,3013001.86
+North,Delhi,Jio Sports,Badminton,India Open,Oct,333876,88.0,Male,35-44,45472,1356,141598,192278,275519.04
+West,Maharashtra,Jio Sports,Badminton,Asia Championships,Oct,309214,80.9,Male,45+,41821,3430,112442,196772,572583.01
+North,Haryana,Jio Sports,Kabaddi,Pro Kabaddi League,Oct,205576,115.7,Male,45+,12023,457,46342,159234,243296.14
+Central,Madhya Pradesh,Sony Sports,Tennis,India Tennis Cup,Jan,116203,32.8,Female,45+,37487,2845,46401,69802,98086.04
+South,Kerala,Jio Sports,Tennis,Chennai Open,Dec,1394027,117.3,Male,45+,21159,2608,664505,729522,2128814.11
+South,Andhra Pradesh,Sony Sports,Tennis,India Tennis Cup,Nov,132844,23.0,Male,35-44,46445,355,61115,71729,182227.95
+West,Gujarat,ESPN India,Tennis,Chennai Open,Mar,1043176,112.9,Female,35-44,24793,1115,390698,652478,1110664.32
+East,Assam,Jio Sports,Tennis,India Tennis Cup,Aug,77712,118.5,Female,35-44,24833,4258,27657,50055,84665.99
+South,Tamil Nadu,Sony Sports,Kabaddi,Pro Kabaddi League,Apr,319114,103.0,Female,35-44,19017,2252,78938,240176,358119.07
+West,Rajasthan,DD Sports,Kabaddi,Pro Kabaddi League,Mar,50404,105.8,Male,15-24,19384,2856,24350,26054,100786.65
+North,Haryana,Star Sports,Hockey,Hockey India League,Sep,285365,76.4,Male,35-44,4636,2824,64507,220858,466749.22
+North,Delhi,ESPN India,Badminton,Asia Championships,Jun,1807266,62.3,Female,35-44,39765,2148,769526,1037740,3489968.98
+North,Punjab,Star Sports,Cricket,Ranji Trophy,Feb,984604,107.2,Male,45+,46543,1923,431091,553513,561563.67
+South,Andhra Pradesh,Star Sports,Kabaddi,Pro Kabaddi League,Jan,555950,85.5,Female,45+,44125,870,259036,296914,711752.35
+North,Uttar Pradesh,ESPN India,Badminton,Asia Championships,Aug,611419,116.6,Male,45+,25285,4958,155964,455455,675755.14
+West,Rajasthan,Star Sports,Cricket,IPL,Jul,1021375,59.2,Male,35-44,2252,4081,363596,657779,1589381.71
+East,Odisha,DD Sports,Football,Santosh Trophy,Sep,365826,79.8,Male,35-44,40649,1429,83795,282031,506623.84
+North,Uttar Pradesh,Sony Sports,Tennis,Chennai Open,Feb,712301,24.6,Female,45+,11209,1431,237592,474709,941070.33
+North,Punjab,ESPN India,Cricket,IPL,Mar,1024304,56.6,Male,25-34,5854,3277,271343,752961,1837135.89
+East,Assam,Star Sports,Badminton,Asia Championships,Dec,1346516,63.2,Female,25-34,20856,2932,351520,994996,1194853.3
+South,Kerala,ESPN India,Kabaddi,Pro Kabaddi League,Apr,700199,80.2,Male,25-34,6569,4400,340466,359733,569749.26
+Central,Madhya Pradesh,Jio Sports,Football,Santosh Trophy,Jun,308090,23.0,Male,25-34,18144,3545,131850,176240,476461.6
+South,Andhra Pradesh,Jio Sports,Kabaddi,Pro Kabaddi League,Sep,1681107,51.3,Female,15-24,19271,3366,748826,932281,2139803.91
+West,Gujarat,Jio Sports,Kabaddi,Pro Kabaddi League,Nov,1960705,38.5,Female,35-44,22508,4799,626288,1334417,2002720.6
+North,Uttar Pradesh,Star Sports,Football,Santosh Trophy,Jul,335205,27.7,Female,15-24,40144,623,158683,176522,271348.64
+West,Maharashtra,DD Sports,Tennis,Chennai Open,Jan,101745,49.7,Female,25-34,17282,2396,46943,54802,124303.71
+South,Tamil Nadu,DD Sports,Tennis,India Tennis Cup,Mar,1272869,106.7,Female,45+,20262,4243,605214,667655,753050.86
+North,Haryana,Sony Sports,Cricket,IPL,Dec,145257,23.9,Male,25-34,15178,1376,34791,110466,287519.6
+Central,Madhya Pradesh,ESPN India,Tennis,Chennai Open,Sep,1574350,39.8,Female,45+,29699,2225,350746,1223604,1879462.3
+North,Uttar Pradesh,ESPN India,Hockey,Hockey India League,Dec,1770684,30.5,Male,15-24,6126,1746,852226,918458,3128198.38
+North,Delhi,DD Sports,Kabaddi,Pro Kabaddi League,Nov,498874,26.3,Female,25-34,41441,2006,169800,329074,430880.35
+Central,Madhya Pradesh,Star Sports,Football,Santosh Trophy,Feb,910120,34.1,Male,15-24,2062,2076,253722,656398,1602780.46
+East,West Bengal,Star Sports,Badminton,Asia Championships,Sep,1498021,27.6,Female,45+,40056,3696,601832,896189,2082831.44
+North,Uttar Pradesh,DD Sports,Cricket,IPL,Mar,1730963,83.1,Female,15-24,27734,4306,681080,1049883,2778600.16
+North,Haryana,Jio Sports,Hockey,Hockey India League,Jul,587198,60.3,Male,35-44,7738,2572,162283,424915,590821.16
+Central,Madhya Pradesh,ESPN India,Football,Santosh Trophy,Aug,1052163,74.9,Female,15-24,11167,2462,322199,729964,2083043.77
+East,West Bengal,Star Sports,Kabaddi,Pro Kabaddi League,Jul,1364532,15.8,Female,45+,27900,1833,300051,1064481,1430077.61
+East,Odisha,Sony Sports,Tennis,India Tennis Cup,Jul,122303,34.6,Female,15-24,11589,3835,55256,67047,225667.15
+North,Uttar Pradesh,ESPN India,Hockey,Hockey India League,Dec,718406,16.9,Female,25-34,5324,2695,348075,370331,1433854.54
+Central,Madhya Pradesh,ESPN India,Tennis,India Tennis Cup,May,590677,116.8,Male,15-24,23350,745,224838,365839,1159263.12
+West,Goa,ESPN India,Badminton,India Open,Aug,162221,85.2,Male,15-24,39328,4389,72795,89426,216588.45
+Central,Madhya Pradesh,Jio Sports,Hockey,Hockey India League,Jan,1439959,103.1,Female,45+,7469,1241,514086,925873,2255593.13
+North,Punjab,Sony Sports,Hockey,Hockey India League,Aug,1287715,40.5,Male,45+,3048,4849,447761,839954,1201368.34
+Central,Madhya Pradesh,Star Sports,Tennis,Chennai Open,May,838260,112.9,Female,35-44,40756,2126,291856,546404,1165872.67
+West,Rajasthan,Star Sports,Hockey,Hockey India League,Apr,435925,29.1,Female,25-34,23422,1773,173943,261982,865285.12
+Central,Madhya Pradesh,Jio Sports,Badminton,India Open,May,428892,24.2,Female,45+,2342,2476,126364,302528,703529.47
+Central,Madhya Pradesh,Jio Sports,Kabaddi,Pro Kabaddi League,May,1870618,78.6,Female,15-24,37258,3777,669776,1200842,1234699.31
+East,Odisha,ESPN India,Tennis,Chennai Open,Apr,657812,116.3,Male,45+,2908,475,164989,492823,1306673.95
+Central,Madhya Pradesh,DD Sports,Cricket,Ranji Trophy,May,1819377,22.0,Female,35-44,6415,3491,810770,1008607,2477463.25
+South,Andhra Pradesh,ESPN India,Hockey,Hockey India League,Jan,187023,101.9,Female,25-34,31523,1414,49664,137359,139593.72
+West,Goa,DD Sports,Kabaddi,Pro Kabaddi League,May,572244,81.5,Female,25-34,21611,700,245661,326583,1039081.12
+East,Bihar,Jio Sports,Cricket,Ranji Trophy,Feb,1575848,62.5,Male,15-24,30287,3697,465042,1110806,2914532.72
+North,Punjab,ESPN India,Kabaddi,Pro Kabaddi League,Mar,385484,93.5,Female,15-24,19574,1092,157890,227594,327013.42
+North,Haryana,ESPN India,Kabaddi,Pro Kabaddi League,Jul,739376,70.8,Female,15-24,37455,2251,282853,456523,1062007.89
+North,Haryana,ESPN India,Tennis,Chennai Open,Oct,903938,49.9,Male,25-34,18586,2135,334947,568991,1457321.04
+East,West Bengal,ESPN India,Hockey,Hockey India League,Jan,1754858,30.9,Male,15-24,2120,3168,462267,1292591,1531523.73
+North,Uttar Pradesh,DD Sports,Hockey,Hockey India League,Jun,1312518,36.5,Male,25-34,33265,4712,599902,712616,2382415.02
+North,Haryana,ESPN India,Kabaddi,Pro Kabaddi League,Jun,1273520,71.3,Male,25-34,30486,3328,597441,676079,1668044.98
+East,Bihar,Jio Sports,Hockey,Hockey India League,Apr,176108,90.8,Female,35-44,21609,194,75943,100165,246139.82
+Central,Chhattisgarh,Jio Sports,Cricket,World Cup,Apr,387827,41.4,Male,35-44,35884,4206,130769,257058,751846.15
+East,Odisha,Star Sports,Hockey,Hockey India League,Jul,1076919,57.1,Female,15-24,1814,445,349980,726939,2068680.64
+North,Delhi,Jio Sports,Kabaddi,Pro Kabaddi League,Dec,183515,29.6,Male,25-34,45241,1084,41556,141959,162231.54
+South,Kerala,DD Sports,Tennis,Chennai Open,Feb,141751,112.9,Female,45+,38219,3035,33789,107962,75770.72
+Central,Madhya Pradesh,DD Sports,Kabaddi,Pro Kabaddi League,Apr,50126,75.5,Male,45+,45409,4246,22770,27356,80435.51
+Central,Madhya Pradesh,ESPN India,Cricket,IPL,Sep,1273975,110.6,Male,25-34,35560,2961,315778,958197,1087795.09
+East,Bihar,ESPN India,Badminton,India Open,Jan,182717,102.9,Male,15-24,36840,1954,81146,101571,176717.74
+Central,Madhya Pradesh,Jio Sports,Badminton,Asia Championships,Jul,1531074,56.9,Male,45+,10524,301,493952,1037122,2609379.06
+West,Gujarat,ESPN India,Cricket,IPL,Jul,1070020,27.0,Male,25-34,35393,2222,341212,728808,2016388.86
+Central,Chhattisgarh,DD Sports,Kabaddi,Pro Kabaddi League,Apr,1630934,92.4,Female,35-44,37368,1054,645710,985224,1922315.48
+Central,Chhattisgarh,Sony Sports,Football,Santosh Trophy,Jul,1046530,75.7,Female,25-34,6299,4905,445333,601197,576448.34
+West,Goa,DD Sports,Badminton,India Open,Apr,1931248,76.0,Male,35-44,5757,2813,755663,1175585,1003556.96
+Central,Madhya Pradesh,Star Sports,Kabaddi,Pro Kabaddi League,Dec,1988900,117.4,Male,15-24,20816,788,687062,1301838,2657086.97
+Central,Chhattisgarh,Sony Sports,Tennis,Chennai Open,Mar,1254565,119.7,Female,15-24,21806,1892,595160,659405,1210536.53
+East,West Bengal,Sony Sports,Tennis,Chennai Open,Sep,1533741,37.0,Female,45+,28965,2179,421797,1111944,1844090.03
+South,Andhra Pradesh,Sony Sports,Hockey,Hockey India League,Feb,1840380,102.8,Female,45+,24570,2165,711643,1128737,1731920.92
+North,Punjab,Sony Sports,Tennis,Chennai Open,Mar,874690,70.1,Female,35-44,39000,2261,318399,556291,1089442.07
+West,Rajasthan,Star Sports,Badminton,India Open,Jul,993026,34.1,Male,25-34,13342,4995,450266,542760,902117.23
+North,Haryana,Jio Sports,Football,Santosh Trophy,Apr,1960637,99.1,Male,45+,17438,1923,670590,1290047,3085960.96
+Central,Madhya Pradesh,Sony Sports,Tennis,Chennai Open,Jul,1048748,72.9,Male,45+,48063,2590,396013,652735,1319599.57
+South,Kerala,Jio Sports,Tennis,Chennai Open,Oct,1434775,99.0,Female,25-34,7722,3775,672576,762199,1229995.55
+East,West Bengal,ESPN India,Cricket,IPL,Nov,1425649,118.8,Female,25-34,10503,3291,368396,1057253,2438252.16
+Central,Chhattisgarh,DD Sports,Cricket,IPL,Nov,1110751,85.1,Female,35-44,22389,922,423024,687727,2048784.36
+North,Uttar Pradesh,Sony Sports,Kabaddi,Pro Kabaddi League,Sep,1366870,92.3,Male,25-34,21079,3552,423768,943102,2480412.67
+North,Uttar Pradesh,Sony Sports,Hockey,Hockey India League,Sep,1542252,108.7,Male,25-34,24236,3694,576144,966108,1371270.46
+West,Rajasthan,ESPN India,Kabaddi,Pro Kabaddi League,Jul,1329361,18.6,Female,15-24,15596,904,519890,809471,1481064.33
+East,Bihar,Star Sports,Kabaddi,Pro Kabaddi League,Apr,1292845,105.4,Male,35-44,44861,1487,505726,787119,918139.43
+South,Kerala,Sony Sports,Kabaddi,Pro Kabaddi League,Dec,1355289,118.5,Male,35-44,49854,4323,447608,907681,1047856.2
+North,Delhi,Star Sports,Kabaddi,Pro Kabaddi League,Apr,1782465,43.2,Female,15-24,36367,4133,879218,903247,2584961.63
+North,Uttar Pradesh,DD Sports,Tennis,India Tennis Cup,Jan,372918,82.7,Female,35-44,42401,2176,162068,210850,282492.44
+North,Punjab,ESPN India,Kabaddi,Pro Kabaddi League,Nov,1487398,101.4,Female,25-34,27665,140,438850,1048548,1355142.78
+East,Bihar,ESPN India,Cricket,World Cup,May,278504,90.6,Female,45+,49756,441,97689,180815,196436.79
+South,Tamil Nadu,Star Sports,Hockey,Hockey India League,Nov,549512,91.9,Female,25-34,31987,554,230823,318689,747304.21
+Central,Madhya Pradesh,DD Sports,Kabaddi,Pro Kabaddi League,Oct,979168,55.2,Male,25-34,37397,4325,366570,612598,733813.03
+East,Assam,Sony Sports,Football,Santosh Trophy,May,1083578,24.5,Male,25-34,22874,4989,481855,601723,652719.82
+West,Gujarat,DD Sports,Badminton,India Open,Aug,758362,52.3,Female,35-44,26712,286,313501,444861,717169.73
+North,Uttar Pradesh,Sony Sports,Football,Santosh Trophy,Sep,428165,84.7,Female,25-34,5853,4601,152935,275230,684575.1
+South,Karnataka,Star Sports,Kabaddi,Pro Kabaddi League,Feb,465008,71.7,Female,35-44,49594,1862,194851,270157,819481.04
+Central,Madhya Pradesh,ESPN India,Cricket,IPL,Feb,979616,77.7,Male,45+,1481,253,343934,635682,1186663.68
+East,Assam,Star Sports,Football,Santosh Trophy,May,674712,91.5,Male,15-24,35008,160,322148,352564,1034066.04
+Central,Madhya Pradesh,ESPN India,Cricket,Ranji Trophy,Jul,1153913,23.0,Male,45+,29145,1352,417827,736086,581005.68
+South,Andhra Pradesh,Star Sports,Football,Santosh Trophy,Apr,1829122,77.0,Male,45+,27212,3215,765226,1063896,3129893.66
+West,Gujarat,Jio Sports,Tennis,Chennai Open,Apr,843392,114.8,Male,35-44,29470,4207,387079,456313,1107248.39
+East,West Bengal,Star Sports,Badminton,India Open,Sep,1713191,82.1,Male,15-24,12344,1850,466815,1246376,2717386.46
+East,Odisha,Star Sports,Badminton,India Open,Jan,155423,41.2,Male,25-34,12918,3742,38117,117306,307970.99
+Central,Madhya Pradesh,DD Sports,Hockey,Hockey India League,Apr,959164,19.6,Male,15-24,30711,4906,286814,672350,1917397.85
+West,Rajasthan,ESPN India,Kabaddi,Pro Kabaddi League,Jun,662121,111.1,Male,35-44,45813,4530,218246,443875,1023725.41
+North,Uttar Pradesh,ESPN India,Hockey,Hockey India League,Jul,978626,117.0,Male,25-34,30398,1600,217922,760704,1185430.54
+West,Rajasthan,ESPN India,Kabaddi,Pro Kabaddi League,Nov,1021741,62.8,Male,15-24,18850,3661,494048,527693,1498710.11
+North,Haryana,Star Sports,Kabaddi,Pro Kabaddi League,Oct,1188189,39.2,Female,35-44,31907,230,381551,806638,1835078.5
+North,Delhi,Jio Sports,Cricket,Ranji Trophy,Jun,184055,57.5,Male,45+,41998,4059,67676,116379,240971.6
+Central,Chhattisgarh,Star Sports,Cricket,World Cup,Jun,891052,92.5,Male,35-44,49288,4211,268656,622396,1016000.29
+Central,Chhattisgarh,ESPN India,Cricket,World Cup,Feb,911291,17.6,Female,35-44,1545,2561,391958,519333,455970.18
+South,Tamil Nadu,DD Sports,Badminton,Asia Championships,Jun,1829468,113.6,Female,45+,4810,913,624432,1205036,1877158.07
+Central,Chhattisgarh,Sony Sports,Tennis,Chennai Open,Mar,472845,18.9,Male,35-44,13984,371,223863,248982,856093.28
+South,Karnataka,DD Sports,Football,Santosh Trophy,Oct,895038,24.6,Male,15-24,25574,3530,340575,554463,1149030.8
+South,Kerala,Jio Sports,Kabaddi,Pro Kabaddi League,Mar,1502608,26.6,Female,45+,34933,475,643668,858940,1398715.41
+East,West Bengal,Jio Sports,Cricket,World Cup,Feb,1809555,76.9,Female,45+,26280,2732,516328,1293227,1201908.96
+West,Rajasthan,ESPN India,Badminton,Asia Championships,Jan,172744,37.9,Male,15-24,44001,1928,51151,121593,290126.57
+Central,Madhya Pradesh,ESPN India,Football,ISL,Aug,288506,118.1,Male,25-34,41970,1968,93313,195193,572331.67
+East,Odisha,Star Sports,Kabaddi,Pro Kabaddi League,Feb,860694,39.3,Male,15-24,49988,984,174420,686274,1502740.55
+West,Maharashtra,ESPN India,Kabaddi,Pro Kabaddi League,Sep,1001661,33.5,Female,15-24,18320,2900,431515,570146,1939120.93
+South,Tamil Nadu,Sony Sports,Hockey,Hockey India League,Nov,195271,21.1,Female,25-34,8214,826,77125,118146,356502.13
+North,Punjab,DD Sports,Tennis,Chennai Open,Jun,126898,70.1,Male,45+,43874,2566,40712,86186,207777.42
+South,Kerala,Sony Sports,Football,ISL,Nov,994189,109.2,Female,35-44,8906,4169,199931,794258,1426070.74
+Central,Madhya Pradesh,Jio Sports,Hockey,Hockey India League,Mar,1394380,77.3,Male,45+,35701,1480,472567,921813,888541.12
+West,Gujarat,DD Sports,Badminton,Asia Championships,Nov,133560,43.7,Female,35-44,33284,1318,51107,82453,258235.22
+West,Gujarat,Jio Sports,Badminton,Asia Championships,Dec,1386651,49.6,Female,15-24,43520,1518,678590,708061,874255.92
+Central,Chhattisgarh,Sony Sports,Tennis,India Tennis Cup,Jun,1124135,15.5,Male,15-24,22754,4072,476864,647271,644326.5
+West,Maharashtra,Jio Sports,Football,Santosh Trophy,Aug,1664737,38.1,Male,15-24,4020,895,791893,872844,1022475.29
+West,Gujarat,Sony Sports,Cricket,IPL,Dec,619936,107.7,Male,25-34,3396,2262,298528,321408,1076842.13
+South,Karnataka,Sony Sports,Hockey,Hockey India League,May,706951,72.1,Male,15-24,27572,1412,213052,493899,1285198.02
+West,Goa,DD Sports,Football,Santosh Trophy,Jul,319458,40.8,Male,25-34,32290,1804,76527,242931,319781.71
+North,Punjab,DD Sports,Badminton,India Open,Jan,1805692,86.4,Female,35-44,21670,3838,525021,1280671,2941607.62
+West,Goa,DD Sports,Tennis,Chennai Open,Apr,1776470,115.9,Female,25-34,3808,4621,418375,1358095,1231635.18
+Central,Madhya Pradesh,Jio Sports,Cricket,Ranji Trophy,Nov,728250,110.4,Male,25-34,27705,2503,314177,414073,971684.02
+South,Kerala,ESPN India,Kabaddi,Pro Kabaddi League,Oct,1287580,15.7,Male,45+,22727,3217,447769,839811,1274254.02
+West,Goa,DD Sports,Football,ISL,Jan,1226808,42.3,Male,35-44,13987,4643,380870,845938,1607091.58
+Central,Chhattisgarh,ESPN India,Cricket,IPL,Jun,308722,44.8,Male,45+,45486,4781,142465,166257,354524.36
+North,Delhi,Sony Sports,Cricket,IPL,Nov,1242929,81.4,Female,35-44,26821,2184,493988,748941,812582.97
+North,Uttar Pradesh,ESPN India,Hockey,Hockey India League,Jul,981011,95.9,Male,35-44,8491,4926,439370,541641,735332.86
+East,Odisha,Star Sports,Kabaddi,Pro Kabaddi League,May,376032,51.3,Male,35-44,21953,3291,122342,253690,213816.7
+West,Maharashtra,DD Sports,Tennis,Chennai Open,Jun,1952897,86.0,Female,45+,22195,3847,396352,1556545,2873415.44
+North,Punjab,Star Sports,Badminton,India Open,Jun,726787,17.6,Male,35-44,45064,4099,198065,528722,1203276.64
+Central,Chhattisgarh,Star Sports,Kabaddi,Pro Kabaddi League,Dec,865673,31.7,Female,15-24,14025,3456,432570,433103,1659023.74
+North,Haryana,Sony Sports,Badminton,Asia Championships,Aug,663474,32.2,Male,35-44,42846,2944,241892,421582,1022097.18
+South,Andhra Pradesh,Sony Sports,Hockey,Hockey India League,Sep,335555,96.1,Female,45+,4093,3630,83223,252332,305317.9
+East,West Bengal,Sony Sports,Kabaddi,Pro Kabaddi League,Feb,822944,18.3,Female,45+,34756,4216,173666,649278,1534203.61
+Central,Madhya Pradesh,Star Sports,Kabaddi,Pro Kabaddi League,Mar,1881780,56.7,Female,45+,33196,4765,580421,1301359,3464637.0
+Central,Chhattisgarh,Sony Sports,Kabaddi,Pro Kabaddi League,Jan,1044465,18.3,Female,45+,42752,891,455459,589006,1099601.8
+Central,Madhya Pradesh,DD Sports,Badminton,India Open,Mar,481374,72.0,Male,35-44,22563,1084,172592,308782,867885.91
+South,Tamil Nadu,Jio Sports,Hockey,Hockey India League,Nov,1036420,62.6,Female,45+,21017,4544,470434,565986,722247.22
+South,Kerala,DD Sports,Badminton,India Open,Jan,1336836,116.6,Female,25-34,16251,626,302726,1034110,1633992.62
+North,Uttar Pradesh,DD Sports,Cricket,World Cup,Jan,568349,78.8,Female,35-44,35531,620,182157,386192,455126.54
+East,Bihar,ESPN India,Badminton,India Open,Dec,1697608,83.4,Male,25-34,36201,683,766899,930709,1639113.42
+East,Assam,ESPN India,Hockey,Hockey India League,Aug,659996,63.8,Female,35-44,27589,4533,300382,359614,805134.57
+South,Andhra Pradesh,ESPN India,Football,ISL,Apr,1815982,84.0,Male,45+,42688,2143,514711,1301271,3032284.04
+West,Gujarat,Jio Sports,Hockey,Hockey India League,Apr,342231,93.7,Female,15-24,10768,2548,96754,245477,223883.62
+West,Goa,Sony Sports,Hockey,Hockey India League,Jul,495485,67.4,Female,25-34,30781,2820,226562,268923,663688.79
+West,Rajasthan,Sony Sports,Tennis,India Tennis Cup,May,72431,22.6,Male,15-24,7368,2948,15764,56667,132099.67
+East,Assam,Jio Sports,Football,Santosh Trophy,Mar,1318300,56.7,Male,35-44,44201,189,628073,690227,2022532.5
+North,Delhi,ESPN India,Hockey,Hockey India League,Jun,1311553,19.3,Male,45+,26003,1995,332568,978985,1907844.5
+Central,Chhattisgarh,Sony Sports,Tennis,Chennai Open,Jul,1858322,77.5,Female,45+,27015,652,429521,1428801,2905655.14
+South,Tamil Nadu,Star Sports,Hockey,Hockey India League,Jun,1611863,80.7,Male,35-44,26683,4306,347832,1264031,2776011.18
+Central,Madhya Pradesh,Sony Sports,Kabaddi,Pro Kabaddi League,Jul,207702,73.1,Female,45+,12653,3485,62675,145027,348056.38
+West,Maharashtra,Sony Sports,Football,Santosh Trophy,Jun,1918670,70.3,Male,15-24,30545,4209,588892,1329778,1194266.5
+East,West Bengal,Sony Sports,Tennis,Chennai Open,May,1310533,83.3,Female,25-34,2560,1366,422014,888519,1086197.25
+East,Odisha,Jio Sports,Football,ISL,Jun,1249670,93.1,Male,35-44,29380,3802,448564,801106,1437724.09
+North,Haryana,ESPN India,Football,Santosh Trophy,Feb,928879,73.3,Male,25-34,40825,761,325611,603268,927459.62
+West,Gujarat,Sony Sports,Cricket,World Cup,Nov,839352,23.6,Male,15-24,9946,4230,295467,543885,697368.63
+North,Haryana,Jio Sports,Kabaddi,Pro Kabaddi League,Aug,1901317,42.1,Male,15-24,31027,3988,933175,968142,3426950.41
+North,Haryana,ESPN India,Tennis,India Tennis Cup,Nov,558062,103.9,Male,35-44,48908,4711,209401,348661,894587.59
+East,Odisha,Sony Sports,Cricket,World Cup,Dec,676045,19.2,Female,15-24,16282,4803,137714,538331,934353.39
+Central,Chhattisgarh,Sony Sports,Badminton,Asia Championships,Jul,469065,66.1,Male,15-24,44585,2482,132475,336590,868264.08
+South,Karnataka,Sony Sports,Badminton,India Open,Jul,1485397,119.2,Female,35-44,46241,1369,450814,1034583,1542921.29
+North,Punjab,Star Sports,Kabaddi,Pro Kabaddi League,Jan,299474,81.3,Male,45+,20342,3014,93769,205705,498324.83
+South,Tamil Nadu,Jio Sports,Football,ISL,Mar,207795,33.9,Male,35-44,42899,625,47230,160565,406674.07
+South,Karnataka,DD Sports,Football,ISL,Nov,1393862,22.3,Male,45+,5648,2465,524219,869643,900560.42
+East,Bihar,ESPN India,Tennis,India Tennis Cup,Sep,1062092,69.1,Male,35-44,48064,3255,389160,672932,1475698.53
+South,Andhra Pradesh,Sony Sports,Tennis,Chennai Open,Dec,1930901,47.8,Female,45+,3113,1352,587695,1343206,991605.72
+South,Kerala,ESPN India,Football,Santosh Trophy,Apr,194832,28.7,Male,15-24,13588,3474,52207,142625,165999.02
+Central,Chhattisgarh,ESPN India,Tennis,India Tennis Cup,Nov,1806169,32.8,Male,45+,6724,2991,863261,942908,3148739.66
+Central,Madhya Pradesh,Jio Sports,Hockey,Hockey India League,May,1009744,76.7,Female,45+,24499,2460,368729,641015,757876.35
+West,Goa,Sony Sports,Badminton,Asia Championships,Nov,645923,78.6,Male,35-44,7116,2312,249451,396472,1080426.03
+North,Haryana,Jio Sports,Tennis,Chennai Open,Jun,1370567,76.5,Female,45+,2742,2025,354017,1016550,1108462.25
+West,Goa,Jio Sports,Football,Santosh Trophy,Nov,493324,118.6,Male,45+,1968,1416,241603,251721,939737.1
+West,Gujarat,Jio Sports,Hockey,Hockey India League,Feb,1257068,38.6,Female,35-44,11724,3928,387176,869892,795514.59
+Central,Madhya Pradesh,ESPN India,Football,ISL,Oct,1259504,19.4,Male,35-44,42235,2840,438093,821411,1536400.44
+West,Gujarat,Jio Sports,Badminton,Asia Championships,May,1857610,114.9,Female,35-44,24857,3968,926053,931557,3347185.55
+West,Maharashtra,Star Sports,Football,ISL,May,694318,69.8,Female,45+,10110,4023,294206,400112,478115.89
+East,West Bengal,Sony Sports,Badminton,India Open,Feb,1726925,89.0,Female,45+,44753,991,703931,1022994,2607913.46
+East,Odisha,ESPN India,Kabaddi,Pro Kabaddi League,Apr,846657,91.7,Female,25-34,24196,4712,375489,471168,1646765.01
+West,Rajasthan,Star Sports,Football,ISL,Jun,1869822,103.0,Male,45+,16577,2574,546385,1323437,2851239.29
+South,Kerala,Sony Sports,Football,ISL,Sep,498625,102.2,Female,35-44,1302,4052,212792,285833,272040.12
+East,Odisha,DD Sports,Football,ISL,Nov,1272471,111.5,Male,25-34,36840,3224,332557,939914,1909288.37
+Central,Chhattisgarh,Jio Sports,Football,ISL,Nov,208056,84.1,Female,25-34,38873,803,97375,110681,119074.21
+West,Gujarat,Star Sports,Kabaddi,Pro Kabaddi League,Jul,579992,119.3,Male,45+,7924,2732,139238,440754,368713.99
+West,Rajasthan,DD Sports,Hockey,Hockey India League,Dec,528366,107.2,Female,35-44,49508,3273,147132,381234,523372.81
+Central,Chhattisgarh,DD Sports,Football,Santosh Trophy,Feb,534965,109.6,Female,15-24,32116,1100,197161,337804,522015.41
+West,Maharashtra,Sony Sports,Cricket,World Cup,Oct,1116348,27.6,Male,45+,42781,554,284278,832070,567817.0
+West,Maharashtra,ESPN India,Hockey,Hockey India League,Jan,1626590,79.0,Male,35-44,35958,1016,505768,1120822,1741475.33
+South,Andhra Pradesh,Sony Sports,Cricket,Ranji Trophy,Nov,736684,39.9,Female,35-44,29144,3438,269179,467505,1035168.39
+Central,Chhattisgarh,Jio Sports,Cricket,World Cup,Jul,1098173,94.7,Male,45+,13040,1126,337389,760784,1442500.2
+Central,Madhya Pradesh,Star Sports,Hockey,Hockey India League,Dec,1367191,65.3,Male,45+,32348,1277,470691,896500,906963.77
+Central,Chhattisgarh,DD Sports,Hockey,Hockey India League,Feb,333780,75.9,Male,15-24,12563,2930,126955,206825,364336.89
+Central,Chhattisgarh,ESPN India,Tennis,India Tennis Cup,Jan,470182,90.4,Female,25-34,14178,1104,120416,349766,815102.87
+Central,Madhya Pradesh,Sony Sports,Hockey,Hockey India League,Mar,900538,83.0,Male,25-34,22627,814,448226,452312,963676.31
+West,Rajasthan,Sony Sports,Tennis,India Tennis Cup,Nov,1668243,51.9,Male,45+,47881,1063,366462,1301781,1476670.07
+West,Rajasthan,Jio Sports,Badminton,India Open,Aug,930179,112.6,Male,25-34,14467,205,278097,652082,1316669.0
+South,Andhra Pradesh,Sony Sports,Kabaddi,Pro Kabaddi League,Apr,1468897,117.6,Female,35-44,35905,3516,558223,910674,1885654.75
+West,Rajasthan,DD Sports,Hockey,Hockey India League,Jun,804950,34.1,Female,25-34,8052,3754,237996,566954,759001.39
+East,Bihar,Star Sports,Football,ISL,Jun,1933376,41.9,Female,25-34,25611,1575,637640,1295736,1219106.56
+Central,Madhya Pradesh,Star Sports,Tennis,India Tennis Cup,Feb,1419909,19.6,Male,15-24,14673,3038,475574,944335,715458.1
+South,Tamil Nadu,Jio Sports,Cricket,IPL,Feb,1295077,107.8,Male,35-44,29552,3197,329265,965812,1059460.09
+Central,Madhya Pradesh,ESPN India,Badminton,Asia Championships,Jun,656217,52.9,Female,45+,32401,2731,293702,362515,1085984.7
+East,Assam,Star Sports,Hockey,Hockey India League,Jan,282601,46.7,Female,15-24,40575,3783,119627,162974,320923.78
+West,Maharashtra,Jio Sports,Kabaddi,Pro Kabaddi League,Oct,348185,95.5,Male,15-24,4040,1562,89533,258652,480464.9
+Central,Chhattisgarh,Jio Sports,Tennis,India Tennis Cup,Oct,245246,106.3,Male,25-34,30344,730,105316,139930,319564.65
+West,Gujarat,Sony Sports,Tennis,Chennai Open,Oct,1009125,82.4,Female,35-44,34755,1646,497407,511718,855657.92
+Central,Madhya Pradesh,Jio Sports,Hockey,Hockey India League,Oct,1256861,21.1,Female,45+,22400,869,390124,866737,1146018.91
+North,Haryana,DD Sports,Hockey,Hockey India League,Aug,1627222,57.5,Female,15-24,33117,4108,474265,1152957,2503732.01
+East,Odisha,DD Sports,Hockey,Hockey India League,Jul,243510,101.0,Male,15-24,39467,1341,96838,146672,244932.27
+Central,Chhattisgarh,DD Sports,Tennis,Chennai Open,Jun,1129583,23.3,Male,25-34,46799,4548,471886,657697,1574216.34
+West,Gujarat,Sony Sports,Tennis,Chennai Open,Apr,1377176,38.8,Male,35-44,3472,3146,554987,822189,832001.28
+West,Maharashtra,Jio Sports,Tennis,India Tennis Cup,May,122240,85.3,Female,15-24,3475,3710,30614,91626,178501.25
+East,Odisha,DD Sports,Hockey,Hockey India League,Apr,699991,83.3,Male,45+,41747,2528,165182,534809,829690.91
+West,Gujarat,ESPN India,Football,Santosh Trophy,Feb,1696933,119.4,Female,15-24,20201,2761,507645,1189288,2268248.13
+North,Uttar Pradesh,Star Sports,Cricket,World Cup,Apr,830641,50.0,Male,15-24,1661,3983,304093,526548,525921.26
+Central,Chhattisgarh,Star Sports,Badminton,Asia Championships,Oct,1080596,87.5,Female,25-34,26592,4506,483469,597127,1408817.88
+East,West Bengal,Jio Sports,Cricket,World Cup,Jan,1449453,94.4,Male,45+,30328,2031,528890,920563,2858110.51
+West,Goa,Jio Sports,Hockey,Hockey India League,Jul,1240402,39.6,Female,25-34,38211,4825,275180,965222,2466818.78
+West,Gujarat,ESPN India,Cricket,World Cup,Jun,1094327,40.6,Female,35-44,17669,248,294834,799493,699705.81
+South,Karnataka,Star Sports,Hockey,Hockey India League,Jul,957669,94.3,Female,45+,12023,2607,453229,504440,1602220.59
+North,Uttar Pradesh,Sony Sports,Badminton,India Open,Dec,1117745,27.4,Female,25-34,6782,1701,537711,580034,1197512.08
+South,Andhra Pradesh,ESPN India,Football,Santosh Trophy,Nov,609873,73.1,Female,25-34,39067,1825,133509,476364,714041.63
+East,Bihar,Jio Sports,Cricket,World Cup,Jan,86035,32.0,Female,25-34,25981,2290,20477,65558,171057.97
+Central,Chhattisgarh,Sony Sports,Kabaddi,Pro Kabaddi League,May,1556404,67.6,Male,35-44,34328,4237,595616,960788,2038265.01
+East,Assam,Jio Sports,Tennis,Chennai Open,Apr,137468,107.2,Female,25-34,8629,233,53037,84431,97865.82
+East,Assam,Star Sports,Hockey,Hockey India League,Jan,343894,23.5,Male,25-34,47484,4325,140514,203380,287296.49
+South,Kerala,DD Sports,Kabaddi,Pro Kabaddi League,Feb,1302557,82.3,Male,35-44,6656,2085,270043,1032514,910209.91
+Central,Chhattisgarh,Sony Sports,Hockey,Hockey India League,Sep,900741,78.7,Male,15-24,32552,1233,365595,535146,1664022.11
+West,Rajasthan,ESPN India,Hockey,Hockey India League,Sep,1041469,67.8,Female,25-34,24429,1148,466108,575361,1561641.45
+East,Odisha,Sony Sports,Cricket,Ranji Trophy,Jan,822577,17.7,Male,35-44,17920,4323,394466,428111,944932.71
+South,Kerala,ESPN India,Tennis,India Tennis Cup,Jun,1307100,107.0,Male,25-34,36262,4585,286341,1020759,654201.93
+West,Rajasthan,Star Sports,Football,ISL,Mar,521082,83.3,Male,35-44,7610,2053,163685,357397,619931.59
+Central,Madhya Pradesh,Star Sports,Kabaddi,Pro Kabaddi League,Aug,300497,94.2,Female,35-44,27526,556,106563,193934,344221.05
+West,Rajasthan,DD Sports,Tennis,Chennai Open,Nov,1143512,27.7,Male,45+,29861,3665,522957,620555,745076.65
+South,Tamil Nadu,ESPN India,Badminton,Asia Championships,Aug,1195935,79.9,Female,15-24,47851,1738,349829,846106,1008582.1
+West,Rajasthan,ESPN India,Kabaddi,Pro Kabaddi League,Mar,1010612,47.2,Male,25-34,42779,519,318782,691830,1304257.64
+East,West Bengal,Sony Sports,Badminton,Asia Championships,Aug,1347638,98.2,Female,35-44,6693,867,380984,966654,1067240.04
+South,Karnataka,DD Sports,Football,ISL,Jun,408918,65.6,Male,45+,32174,1864,139993,268925,441884.21
+Central,Madhya Pradesh,Sony Sports,Football,ISL,Sep,1954260,58.7,Male,35-44,25282,2393,970663,983597,3293918.14
+South,Tamil Nadu,Sony Sports,Hockey,Hockey India League,Dec,552420,29.4,Male,45+,6542,1000,150211,402209,454532.73
+West,Rajasthan,DD Sports,Kabaddi,Pro Kabaddi League,Sep,1776676,81.1,Female,15-24,17052,2485,443652,1333024,1060542.36
+Central,Chhattisgarh,Sony Sports,Hockey,Hockey India League,Oct,706031,26.5,Male,25-34,5795,2542,249684,456347,834222.23
+Central,Madhya Pradesh,DD Sports,Badminton,Asia Championships,Sep,560259,30.7,Female,15-24,11749,645,235418,324841,552983.42
+South,Tamil Nadu,DD Sports,Kabaddi,Pro Kabaddi League,Mar,275019,100.1,Female,25-34,29380,1559,83740,191279,492104.66
+East,Assam,ESPN India,Badminton,Asia Championships,Aug,1355129,108.7,Male,25-34,31911,116,358425,996704,2016483.74
+Central,Madhya Pradesh,Star Sports,Kabaddi,Pro Kabaddi League,Sep,1975544,60.9,Female,25-34,7172,1220,579940,1395604,3479540.21
+East,Bihar,Star Sports,Cricket,World Cup,May,1512073,97.0,Female,35-44,42674,4954,641244,870829,2251523.39
+North,Delhi,DD Sports,Cricket,Ranji Trophy,Jan,471818,38.8,Female,35-44,9080,4026,172196,299622,602800.35
+North,Delhi,Star Sports,Cricket,Ranji Trophy,Sep,1195298,118.8,Female,45+,23614,2248,559749,635549,683407.13
+West,Rajasthan,Star Sports,Hockey,Hockey India League,May,1871895,90.2,Female,45+,8788,3606,888331,983564,1136025.17
+East,Odisha,Star Sports,Badminton,Asia Championships,Oct,1723879,68.4,Male,25-34,29903,3997,843544,880335,2056450.43
+North,Haryana,Star Sports,Kabaddi,Pro Kabaddi League,Jul,1671219,96.3,Male,35-44,39278,2646,660281,1010938,1299863.03
+South,Andhra Pradesh,Sony Sports,Badminton,India Open,Dec,1257786,72.7,Female,35-44,11759,1673,473382,784404,784766.01
+Central,Chhattisgarh,Jio Sports,Cricket,Ranji Trophy,Aug,89279,46.0,Male,15-24,36144,3109,18717,70562,134010.06
+Central,Chhattisgarh,ESPN India,Kabaddi,Pro Kabaddi League,Jan,796434,79.6,Female,25-34,27189,1740,369215,427219,1167457.86
+North,Delhi,Sony Sports,Football,Santosh Trophy,Apr,173257,109.1,Male,15-24,47857,2296,61771,111486,119174.89
+North,Haryana,Sony Sports,Hockey,Hockey India League,Jan,973482,78.2,Female,15-24,43676,4083,200546,772936,1672105.92
+South,Karnataka,ESPN India,Football,Santosh Trophy,Dec,1031883,19.6,Female,15-24,24953,2330,467452,564431,663002.94
+Central,Madhya Pradesh,Star Sports,Cricket,Ranji Trophy,Oct,120119,61.1,Male,45+,40896,3797,44490,75629,229981.49
+South,Karnataka,Sony Sports,Badminton,India Open,Dec,457507,35.7,Female,35-44,34453,2260,212078,245429,671947.95
+East,Assam,Star Sports,Hockey,Hockey India League,Sep,1176370,48.3,Female,45+,11736,4975,351222,825148,2209681.41
+South,Karnataka,Star Sports,Hockey,Hockey India League,Dec,1286497,38.2,Male,45+,16997,401,397758,888739,2049050.11
+West,Rajasthan,ESPN India,Kabaddi,Pro Kabaddi League,May,394710,20.7,Female,15-24,29927,697,175971,218739,643290.86
+East,Odisha,DD Sports,Cricket,World Cup,Oct,1288360,19.5,Female,45+,20921,4965,281873,1006487,898751.12
+West,Goa,ESPN India,Hockey,Hockey India League,Oct,1742110,116.3,Male,45+,27062,4182,823041,919069,1264796.53
+Central,Madhya Pradesh,Star Sports,Hockey,Hockey India League,Mar,472955,71.9,Female,15-24,2724,1476,132503,340452,597124.99
+South,Kerala,ESPN India,Football,ISL,Mar,845326,30.9,Male,15-24,30725,1404,395800,449526,1387756.74
+South,Karnataka,DD Sports,Tennis,Chennai Open,Feb,1783742,73.6,Male,25-34,23656,1384,805798,977944,3250292.16
+North,Uttar Pradesh,Jio Sports,Hockey,Hockey India League,Nov,350931,57.2,Male,15-24,30545,3662,165025,185906,339137.4
+West,Maharashtra,ESPN India,Football,ISL,Aug,739556,79.7,Female,25-34,26498,3237,207134,532422,764018.19
+North,Haryana,Star Sports,Football,Santosh Trophy,Feb,481116,70.0,Female,35-44,44241,2749,162806,318310,846738.17
+North,Delhi,Jio Sports,Football,Santosh Trophy,Aug,741211,36.3,Female,25-34,20873,2734,204782,536429,1211433.03
+Central,Madhya Pradesh,Sony Sports,Tennis,Chennai Open,Jan,795182,107.0,Male,15-24,18081,2279,324688,470494,857256.95
+North,Delhi,Star Sports,Tennis,India Tennis Cup,Jul,1333203,108.1,Male,35-44,24705,1928,377802,955401,1992555.88
+Central,Chhattisgarh,Jio Sports,Cricket,IPL,Jan,1832581,15.3,Female,45+,27661,4383,533858,1298723,3099436.91
+Central,Madhya Pradesh,ESPN India,Badminton,India Open,Nov,982883,106.8,Female,25-34,37060,4721,372810,610073,1557974.87
+West,Rajasthan,DD Sports,Badminton,India Open,Oct,623156,74.0,Male,15-24,28523,4059,203152,420004,875678.44
+Central,Madhya Pradesh,Jio Sports,Cricket,World Cup,Jan,902129,78.2,Male,15-24,29731,3062,288853,613276,1125300.85
+North,Punjab,Star Sports,Badminton,India Open,Dec,1759933,88.0,Male,25-34,1541,3074,801298,958635,3058228.54
+North,Haryana,ESPN India,Hockey,Hockey India League,Sep,1239906,30.5,Male,25-34,29854,1306,456212,783694,1058614.88
+North,Haryana,Star Sports,Kabaddi,Pro Kabaddi League,Jan,1459854,77.8,Male,45+,28386,1426,633309,826545,2916089.41
+Central,Chhattisgarh,DD Sports,Kabaddi,Pro Kabaddi League,Feb,83787,33.2,Male,35-44,46253,1383,34367,49420,104251.94
+West,Maharashtra,Star Sports,Hockey,Hockey India League,Jan,178046,58.0,Female,25-34,19509,2271,82703,95343,191532.88
+East,Assam,Sony Sports,Football,ISL,Jun,457688,36.3,Female,25-34,31268,237,98360,359328,458496.7
+West,Gujarat,Star Sports,Football,ISL,Jul,1414940,76.5,Female,25-34,33373,2857,410226,1004714,1807045.55
+West,Gujarat,ESPN India,Cricket,World Cup,Jun,1706684,20.9,Male,35-44,26122,4776,452656,1254028,3008713.82
+East,West Bengal,ESPN India,Cricket,World Cup,Jun,334580,60.7,Female,15-24,26279,2503,119020,215560,234279.59
+North,Punjab,ESPN India,Tennis,Chennai Open,Jun,200787,109.9,Male,25-34,30312,2939,97392,103395,320107.15
+North,Delhi,ESPN India,Kabaddi,Pro Kabaddi League,Jan,1665685,38.6,Male,25-34,8531,4383,804220,861465,1829345.29
+West,Gujarat,Star Sports,Kabaddi,Pro Kabaddi League,Aug,1165731,115.4,Male,15-24,16261,1531,353116,812615,682631.19
+North,Uttar Pradesh,Star Sports,Tennis,India Tennis Cup,Nov,1977581,44.0,Female,35-44,35742,3391,967262,1010319,3323700.42
+Central,Chhattisgarh,Jio Sports,Football,ISL,Dec,1017561,94.7,Female,45+,10833,304,425763,591798,918052.21
+North,Haryana,Star Sports,Badminton,Asia Championships,Aug,616088,18.5,Female,15-24,3643,2397,217928,398160,827399.57
+South,Andhra Pradesh,ESPN India,Badminton,India Open,Sep,983396,58.2,Male,25-34,33262,3241,334624,648772,1819036.77
+West,Goa,DD Sports,Kabaddi,Pro Kabaddi League,Mar,1506081,72.6,Female,25-34,12918,1043,422103,1083978,2869436.27
+East,Assam,DD Sports,Badminton,Asia Championships,Sep,100601,97.7,Female,45+,23669,4360,25316,75285,198379.7
+West,Rajasthan,Jio Sports,Kabaddi,Pro Kabaddi League,Jan,833441,91.1,Male,25-34,32703,2452,380475,452966,996711.03
+North,Uttar Pradesh,Star Sports,Cricket,IPL,Oct,1448616,116.6,Male,45+,7588,524,312741,1135875,772188.73
+East,Assam,Sony Sports,Hockey,Hockey India League,Jan,1258948,41.4,Female,35-44,34365,3162,544376,714572,1658863.27
+South,Tamil Nadu,DD Sports,Badminton,India Open,Feb,256487,105.3,Male,45+,24481,2190,119413,137074,154277.58
+East,Bihar,Sony Sports,Tennis,Chennai Open,Jul,1405349,79.4,Male,35-44,13485,2757,471282,934067,1724425.66
+North,Haryana,Star Sports,Badminton,Asia Championships,Mar,1111716,84.7,Female,25-34,47136,3237,508846,602870,718550.71
+East,Assam,Jio Sports,Kabaddi,Pro Kabaddi League,Apr,782303,83.4,Male,35-44,28733,4783,294514,487789,464226.16
+Central,Madhya Pradesh,Sony Sports,Football,Santosh Trophy,Jan,1319671,52.4,Female,45+,17994,1827,615520,704151,2231543.3
+Central,Madhya Pradesh,Sony Sports,Football,Santosh Trophy,Nov,847232,42.2,Female,35-44,13819,1277,372436,474796,843269.15
+Central,Madhya Pradesh,DD Sports,Football,ISL,Feb,1784509,16.9,Female,15-24,11983,1849,488541,1295968,1324872.51
+West,Rajasthan,DD Sports,Cricket,World Cup,Mar,575069,62.4,Female,45+,19489,3967,246338,328731,953475.16
+West,Maharashtra,DD Sports,Football,Santosh Trophy,Aug,1389838,24.9,Female,35-44,21354,2091,464548,925290,1283718.79
+Central,Chhattisgarh,Sony Sports,Cricket,IPL,Jan,493945,26.1,Male,45+,49563,1914,173205,320740,856083.12
+West,Gujarat,Jio Sports,Cricket,World Cup,Aug,260097,61.3,Male,35-44,30450,2651,122760,137337,202897.75
+East,Bihar,DD Sports,Hockey,Hockey India League,Dec,1278807,98.2,Female,25-34,11403,584,529246,749561,1856666.16
+North,Uttar Pradesh,Jio Sports,Kabaddi,Pro Kabaddi League,Sep,318854,35.6,Male,45+,3285,4663,97952,220902,426221.8
+North,Delhi,Jio Sports,Cricket,IPL,Jan,130257,105.0,Male,35-44,1258,382,52751,77506,119231.62
+West,Maharashtra,DD Sports,Tennis,Chennai Open,Oct,578423,77.8,Male,45+,24551,712,201225,377198,924871.11
+North,Uttar Pradesh,DD Sports,Kabaddi,Pro Kabaddi League,Jun,329215,61.2,Female,15-24,12205,1881,149585,179630,587751.13
+East,West Bengal,ESPN India,Football,Santosh Trophy,Sep,1685851,48.6,Male,45+,26150,2010,468803,1217048,1152533.46
+South,Andhra Pradesh,DD Sports,Cricket,World Cup,Nov,427501,32.4,Female,45+,2125,1629,132354,295147,487878.9
+West,Goa,DD Sports,Tennis,India Tennis Cup,Sep,582726,87.1,Male,15-24,44360,2343,268668,314058,920142.09
+North,Punjab,ESPN India,Badminton,Asia Championships,Jul,571121,54.8,Male,35-44,33994,3647,249623,321498,1020744.91
+East,Assam,Star Sports,Cricket,IPL,Nov,977091,26.6,Male,15-24,17299,3090,219394,757697,1443653.79
+North,Uttar Pradesh,Star Sports,Badminton,India Open,Nov,462104,66.9,Female,45+,10346,687,181450,280654,463403.47
+South,Kerala,DD Sports,Tennis,Chennai Open,May,1861417,26.9,Female,45+,26817,289,794263,1067154,2938462.98
+West,Goa,Star Sports,Football,Santosh Trophy,Jan,895474,51.5,Male,45+,14230,4533,409598,485876,1453568.77
+South,Tamil Nadu,Sony Sports,Tennis,India Tennis Cup,Aug,1203976,75.6,Female,35-44,7416,1774,444687,759289,2125747.24
+West,Goa,Jio Sports,Badminton,India Open,Nov,344746,28.3,Male,15-24,23433,1189,106788,237958,335223.9
+East,Bihar,ESPN India,Badminton,Asia Championships,Jan,1764423,33.4,Male,45+,40112,4319,845349,919074,3506991.73
+West,Maharashtra,Star Sports,Kabaddi,Pro Kabaddi League,Jan,1790534,82.5,Male,45+,34209,4728,745252,1045282,984407.0
+South,Kerala,Sony Sports,Football,ISL,Jul,1061316,94.7,Male,35-44,17843,4746,400656,660660,1816011.49
+West,Goa,DD Sports,Badminton,Asia Championships,Aug,100939,42.3,Female,45+,22125,2554,30333,70606,76069.81
+South,Karnataka,Jio Sports,Football,ISL,Dec,526513,63.3,Female,15-24,3659,4696,192643,333870,694982.59
+Central,Chhattisgarh,ESPN India,Tennis,Chennai Open,May,176498,99.2,Male,45+,23010,695,66394,110104,93014.47
+Central,Madhya Pradesh,Star Sports,Tennis,India Tennis Cup,Aug,296183,111.4,Female,25-34,35518,4857,82348,213835,529430.82
+Central,Chhattisgarh,Star Sports,Tennis,Chennai Open,Aug,1020834,101.7,Male,25-34,22778,2431,212505,808329,537989.56
+Central,Chhattisgarh,ESPN India,Badminton,Asia Championships,Nov,1802390,73.7,Male,25-34,14947,4828,565224,1237166,1662311.49
+North,Haryana,Jio Sports,Badminton,India Open,Jul,888574,37.9,Male,45+,35228,2823,324372,564202,572954.03
+North,Delhi,ESPN India,Football,Santosh Trophy,Jul,885869,74.6,Female,25-34,48192,1862,430677,455192,743711.16
+West,Maharashtra,ESPN India,Cricket,IPL,Dec,1191069,20.1,Female,35-44,9259,1087,329977,861092,2118192.12
+West,Gujarat,Jio Sports,Cricket,World Cup,Oct,1442488,50.7,Male,15-24,6374,4890,578262,864226,1870870.56
+North,Haryana,Star Sports,Cricket,Ranji Trophy,Jul,1173389,18.6,Female,35-44,1778,4689,306990,866399,2092791.08
+South,Kerala,ESPN India,Kabaddi,Pro Kabaddi League,Apr,1981006,41.5,Male,35-44,45900,2086,598963,1382043,2441712.61
+East,Odisha,ESPN India,Football,Santosh Trophy,Mar,1171268,110.5,Female,35-44,47403,1158,552655,618613,2042609.64
+East,Bihar,Jio Sports,Kabaddi,Pro Kabaddi League,Apr,362023,17.6,Female,15-24,34110,1547,77203,284820,353124.43
+South,Andhra Pradesh,DD Sports,Kabaddi,Pro Kabaddi League,Sep,160155,29.4,Male,35-44,46714,2173,57764,102391,119673.74
+West,Rajasthan,Star Sports,Hockey,Hockey India League,Aug,787685,81.3,Male,45+,31483,4700,250384,537301,1224023.63
+North,Delhi,Star Sports,Kabaddi,Pro Kabaddi League,Nov,603091,28.8,Female,25-34,34539,678,179162,423929,891571.37
+South,Karnataka,Jio Sports,Football,Santosh Trophy,Feb,1491985,64.7,Female,15-24,43752,1210,624440,867545,1656786.48
+North,Delhi,Jio Sports,Cricket,IPL,May,1625125,53.0,Male,15-24,22259,4457,688538,936587,923839.88
+West,Goa,DD Sports,Cricket,World Cup,Jun,1663447,64.3,Male,45+,46496,2240,712526,950921,2011867.65
+Central,Chhattisgarh,Sony Sports,Hockey,Hockey India League,Jul,1980082,79.1,Male,35-44,31519,4896,873555,1106527,1006393.9
+North,Uttar Pradesh,Sony Sports,Tennis,India Tennis Cup,May,1509501,102.5,Male,25-34,30075,4797,732336,777165,1802763.73
+East,Odisha,Star Sports,Badminton,India Open,Mar,315972,68.8,Female,45+,6482,2529,103761,212211,289661.99
+Central,Madhya Pradesh,DD Sports,Badminton,India Open,Feb,1235111,79.8,Female,15-24,34623,1912,585285,649826,1257138.85
+North,Punjab,Star Sports,Badminton,Asia Championships,Dec,426742,18.1,Male,25-34,23207,1617,139787,286955,848885.97
+North,Haryana,Star Sports,Kabaddi,Pro Kabaddi League,Nov,657564,32.3,Male,15-24,45199,3791,145435,512129,1048676.8
+South,Kerala,Jio Sports,Hockey,Hockey India League,Jan,1865111,90.0,Male,45+,45299,3411,424717,1440394,1762700.48
+North,Delhi,Star Sports,Badminton,Asia Championships,Mar,769449,101.2,Female,45+,38383,273,164264,605185,443743.6
+Central,Chhattisgarh,Jio Sports,Kabaddi,Pro Kabaddi League,Jul,1265468,19.3,Female,45+,2875,4133,317790,947678,1895592.8
+Central,Madhya Pradesh,Sony Sports,Hockey,Hockey India League,Nov,315888,53.8,Male,15-24,33402,1874,114709,201179,356454.87
+East,West Bengal,Sony Sports,Cricket,IPL,Mar,915363,57.4,Male,45+,25306,2802,210446,704917,1487259.97
+Central,Madhya Pradesh,Star Sports,Kabaddi,Pro Kabaddi League,Sep,383569,86.3,Female,35-44,35610,1966,114852,268717,536244.27
+East,Assam,Star Sports,Tennis,Chennai Open,May,911069,110.9,Female,25-34,41312,870,281677,629392,1444918.61
+North,Delhi,DD Sports,Tennis,Chennai Open,Feb,1945066,70.6,Female,25-34,34154,3521,540156,1404910,1387232.13
+North,Haryana,Jio Sports,Tennis,India Tennis Cup,Nov,299768,46.0,Male,15-24,35624,2098,111931,187837,169551.36
+West,Maharashtra,Star Sports,Kabaddi,Pro Kabaddi League,Apr,1959972,37.7,Male,25-34,40832,1531,504876,1455096,2897696.05
+South,Tamil Nadu,ESPN India,Cricket,IPL,Feb,1722987,104.4,Male,45+,36426,3600,661252,1061735,1573210.77
+Central,Chhattisgarh,Star Sports,Tennis,Chennai Open,May,742148,77.0,Female,25-34,29011,1989,179212,562936,798818.0
+South,Andhra Pradesh,Sony Sports,Football,Santosh Trophy,Oct,1838098,111.2,Male,35-44,4134,2170,446164,1391934,1798211.69
+South,Andhra Pradesh,DD Sports,Football,Santosh Trophy,Feb,769407,53.9,Female,25-34,2141,1735,381863,387544,838239.18
+South,Andhra Pradesh,DD Sports,Football,Santosh Trophy,Dec,1862375,32.5,Female,15-24,12172,106,721921,1140454,1329533.15
+West,Maharashtra,ESPN India,Badminton,India Open,Feb,1976711,114.4,Male,35-44,6906,3373,536535,1440176,2903261.82
+West,Maharashtra,Jio Sports,Badminton,Asia Championships,Apr,838443,55.5,Female,25-34,12738,4321,417534,420909,1168775.51
+North,Uttar Pradesh,Star Sports,Cricket,Ranji Trophy,Feb,847552,78.6,Male,15-24,1929,3859,251608,595944,700788.91
+South,Tamil Nadu,DD Sports,Tennis,Chennai Open,May,1093659,26.1,Female,15-24,6744,2000,363198,730461,2141425.75
+Central,Chhattisgarh,Star Sports,Kabaddi,Pro Kabaddi League,Jul,878791,70.9,Male,35-44,5652,1278,181703,697088,714717.3
+South,Tamil Nadu,Star Sports,Badminton,Asia Championships,Apr,1529018,31.8,Female,35-44,27417,2409,586538,942480,2498905.34
+North,Delhi,Star Sports,Football,Santosh Trophy,Feb,165598,28.7,Male,25-34,3169,2272,58563,107035,174804.5
+West,Goa,Sony Sports,Badminton,Asia Championships,Dec,1303499,108.3,Male,25-34,31403,885,528973,774526,2268167.83
+South,Andhra Pradesh,ESPN India,Hockey,Hockey India League,Dec,593088,78.7,Female,45+,15973,2036,280851,312237,639507.73
+East,Odisha,Star Sports,Kabaddi,Pro Kabaddi League,Feb,286527,117.9,Female,15-24,16848,2452,76772,209755,372022.73
+Central,Chhattisgarh,DD Sports,Cricket,World Cup,May,1631420,102.5,Female,25-34,47633,1477,442816,1188604,1450336.21
+Central,Madhya Pradesh,Sony Sports,Football,ISL,Sep,1286530,68.3,Male,45+,17766,1656,574885,711645,2508252.44
+South,Andhra Pradesh,Sony Sports,Badminton,India Open,Nov,443574,32.4,Male,45+,31654,1403,149286,294288,886957.58
+Central,Chhattisgarh,Star Sports,Kabaddi,Pro Kabaddi League,Oct,612060,66.3,Male,35-44,40420,3270,191043,421017,1114238.18
+East,Assam,DD Sports,Badminton,India Open,Oct,1592247,98.2,Female,25-34,20218,4360,640487,951760,2541587.72
+South,Karnataka,DD Sports,Hockey,Hockey India League,Apr,200023,64.9,Male,35-44,44171,2009,97644,102379,168344.28
+North,Haryana,Star Sports,Football,Santosh Trophy,Jul,744335,77.9,Male,45+,27421,1808,239748,504587,884046.41
+Central,Madhya Pradesh,Star Sports,Hockey,Hockey India League,Dec,1698885,98.0,Female,15-24,17859,1076,782854,916031,2584231.46
+North,Uttar Pradesh,Sony Sports,Tennis,India Tennis Cup,Oct,640381,116.8,Female,15-24,1882,2294,313570,326811,812869.94
+West,Gujarat,Sony Sports,Tennis,Chennai Open,Nov,1813947,105.7,Female,15-24,8166,4890,643911,1170036,1928216.34
+West,Maharashtra,Sony Sports,Football,Santosh Trophy,Feb,647093,74.1,Female,35-44,3454,4594,222126,424967,911516.52
+South,Kerala,ESPN India,Hockey,Hockey India League,Aug,1242639,75.6,Female,25-34,31386,3902,437785,804854,1381039.55
+North,Haryana,Sony Sports,Kabaddi,Pro Kabaddi League,Jun,1641218,77.1,Male,15-24,42862,464,524148,1117070,1993628.66
+South,Kerala,Sony Sports,Badminton,India Open,May,175438,104.7,Male,15-24,9016,2484,81969,93469,310604.78
+North,Punjab,Jio Sports,Cricket,Ranji Trophy,Apr,152239,47.7,Female,15-24,22826,2590,65141,87098,83150.67
+East,Assam,Sony Sports,Badminton,India Open,Jan,1517310,112.3,Male,25-34,34905,2627,473435,1043875,2873612.31
+East,Odisha,Jio Sports,Kabaddi,Pro Kabaddi League,Feb,1235493,87.7,Female,45+,23313,2467,349877,885616,1172598.23
+North,Delhi,ESPN India,Cricket,World Cup,Sep,1411871,50.0,Male,45+,16906,795,358701,1053170,1825361.66
+North,Uttar Pradesh,ESPN India,Tennis,Chennai Open,Jan,1876525,119.8,Male,15-24,11503,2941,933273,943252,3270227.53
+South,Karnataka,Sony Sports,Football,Santosh Trophy,Nov,848022,19.6,Female,45+,4363,124,423422,424600,1229088.74
+Central,Madhya Pradesh,ESPN India,Tennis,India Tennis Cup,Apr,831198,94.1,Male,25-34,9068,2335,379978,451220,1236665.34
+Central,Madhya Pradesh,Sony Sports,Cricket,Ranji Trophy,Jan,61390,88.5,Female,25-34,16038,3275,14407,46983,67446.14
+East,Assam,Jio Sports,Tennis,Chennai Open,Jul,71281,57.8,Male,35-44,9605,2114,33981,37300,42698.37
+East,Bihar,Jio Sports,Hockey,Hockey India League,Apr,856242,81.4,Female,15-24,45716,2115,287065,569177,521001.61
+Central,Chhattisgarh,DD Sports,Cricket,IPL,Feb,209292,106.2,Male,35-44,6185,2522,98309,110983,369005.16
+West,Maharashtra,ESPN India,Badminton,Asia Championships,Feb,237771,20.3,Female,35-44,46505,1597,68449,169322,262572.87
+West,Gujarat,Jio Sports,Hockey,Hockey India League,Mar,1633214,105.7,Male,45+,3951,1338,713170,920044,3093049.4
+East,Assam,Jio Sports,Football,ISL,Jul,1413837,17.3,Female,35-44,24782,1688,594024,819813,2493083.99
+East,West Bengal,Sony Sports,Football,Santosh Trophy,Jul,704224,117.8,Male,45+,35324,3958,216801,487423,1036424.89
+West,Maharashtra,Star Sports,Badminton,Asia Championships,Jan,1605157,90.6,Female,35-44,24071,1689,712124,893033,975395.66
+South,Karnataka,Jio Sports,Tennis,Chennai Open,May,50159,63.6,Male,25-34,17237,1111,17161,32998,47891.37
+South,Tamil Nadu,Star Sports,Tennis,India Tennis Cup,Apr,1851038,69.6,Male,15-24,34996,1135,618709,1232329,2304622.15
+South,Andhra Pradesh,Sony Sports,Hockey,Hockey India League,Feb,455453,101.5,Male,45+,49766,1364,107215,348238,576919.45
+Central,Madhya Pradesh,Sony Sports,Football,Santosh Trophy,Jul,887393,89.2,Female,45+,28990,917,370176,517217,1065272.7
+North,Uttar Pradesh,DD Sports,Hockey,Hockey India League,Jan,216277,92.8,Female,25-34,6276,767,92124,124153,141193.97
+North,Punjab,Jio Sports,Football,Santosh Trophy,Jul,1641872,74.3,Male,45+,6793,4623,756938,884934,2229192.18
+West,Maharashtra,Jio Sports,Hockey,Hockey India League,Sep,1212126,59.4,Female,15-24,42157,2771,263159,948967,2308471.82
+Central,Madhya Pradesh,Jio Sports,Hockey,Hockey India League,Oct,1490434,87.1,Female,35-44,40129,2048,705293,785141,1611864.44
+West,Goa,ESPN India,Hockey,Hockey India League,Jun,1714986,86.0,Female,35-44,7318,4218,423131,1291855,1511497.9
+East,Odisha,Star Sports,Badminton,India Open,Nov,148538,116.4,Male,45+,25427,622,44574,103964,286107.81
+West,Goa,Jio Sports,Cricket,Ranji Trophy,Jun,1733886,43.2,Male,15-24,17211,1416,375916,1357970,992266.58
+West,Gujarat,Jio Sports,Badminton,India Open,Feb,853940,55.4,Female,35-44,26599,1478,299246,554694,1013242.0
+East,Assam,Jio Sports,Tennis,Chennai Open,Nov,1710561,95.9,Male,15-24,10083,4172,529715,1180846,1332586.03
+North,Uttar Pradesh,Star Sports,Cricket,IPL,Sep,1388084,104.3,Female,25-34,16887,4844,351666,1036418,2062734.78
+West,Maharashtra,ESPN India,Football,ISL,Jan,538906,83.0,Female,15-24,28747,2768,151353,387553,878974.31
+South,Tamil Nadu,DD Sports,Badminton,India Open,Jul,1313340,29.3,Female,15-24,31499,1039,540321,773019,1435081.84
+West,Gujarat,Jio Sports,Hockey,Hockey India League,Apr,1408311,75.8,Male,35-44,45283,334,506364,901947,1481091.08
+North,Punjab,DD Sports,Hockey,Hockey India League,Jul,338816,69.2,Male,15-24,3100,3757,158074,180742,176875.53
+West,Maharashtra,Star Sports,Cricket,IPL,Aug,856564,103.0,Female,45+,9016,4593,194166,662398,959749.14
+North,Haryana,Star Sports,Tennis,Chennai Open,May,860904,49.7,Female,35-44,37021,4736,240313,620591,1029764.07
+West,Goa,Star Sports,Hockey,Hockey India League,Apr,566835,56.8,Male,25-34,45864,4023,276334,290501,670213.42
+South,Andhra Pradesh,Sony Sports,Cricket,Ranji Trophy,Aug,749151,69.7,Male,45+,3745,3966,200866,548285,1021117.61
+South,Tamil Nadu,Sony Sports,Hockey,Hockey India League,Jan,965113,99.8,Female,45+,31116,3562,259570,705543,507966.52
+South,Tamil Nadu,Jio Sports,Kabaddi,Pro Kabaddi League,Oct,1509700,92.6,Female,15-24,21093,819,600044,909656,1433763.28
+North,Delhi,ESPN India,Kabaddi,Pro Kabaddi League,Jul,231196,103.9,Male,45+,21936,2307,48030,183166,427213.43
+South,Kerala,Jio Sports,Hockey,Hockey India League,May,864038,63.1,Female,45+,45245,743,229737,634301,1597764.22
+West,Goa,Jio Sports,Tennis,India Tennis Cup,Feb,799468,40.9,Male,45+,32131,3376,344994,454474,1296070.83
+East,West Bengal,Jio Sports,Football,Santosh Trophy,Apr,810278,76.1,Female,35-44,22607,492,241874,568404,695816.64
+East,West Bengal,DD Sports,Badminton,Asia Championships,Nov,552367,82.7,Male,35-44,17616,1652,168314,384053,462923.26
+Central,Madhya Pradesh,ESPN India,Badminton,Asia Championships,Jul,188731,109.1,Female,45+,49152,560,59277,129454,323991.8
+South,Tamil Nadu,Jio Sports,Kabaddi,Pro Kabaddi League,Mar,962743,32.2,Female,45+,9682,1172,219577,743166,1849518.72
+South,Andhra Pradesh,Star Sports,Hockey,Hockey India League,May,1879989,64.3,Female,45+,19990,258,776151,1103838,2935757.03
+Central,Chhattisgarh,Sony Sports,Kabaddi,Pro Kabaddi League,Apr,872513,112.7,Female,25-34,6939,2395,255622,616891,611991.33
+North,Haryana,DD Sports,Hockey,Hockey India League,Jan,1830657,94.9,Female,25-34,20167,3744,749517,1081140,3521464.24
+West,Rajasthan,Jio Sports,Hockey,Hockey India League,Oct,1751421,43.8,Male,45+,20029,2449,835653,915768,2012775.05
+North,Uttar Pradesh,Jio Sports,Tennis,Chennai Open,Dec,1952301,105.7,Male,15-24,44527,3599,647652,1304649,3604947.24
+Central,Chhattisgarh,DD Sports,Hockey,Hockey India League,Nov,189883,118.0,Male,45+,27956,1646,46884,142999,206552.34
+Central,Madhya Pradesh,Sony Sports,Badminton,Asia Championships,Jan,1863995,35.7,Male,35-44,26851,2843,394817,1469178,2921969.13
+Central,Chhattisgarh,ESPN India,Football,Santosh Trophy,May,851881,38.0,Male,45+,42316,969,292399,559482,1221184.1
+West,Gujarat,DD Sports,Hockey,Hockey India League,Oct,998377,102.1,Female,25-34,26372,3742,494939,503438,1030885.74
+West,Maharashtra,Jio Sports,Tennis,India Tennis Cup,Dec,346208,69.8,Male,25-34,6366,619,73383,272825,257061.92
+South,Andhra Pradesh,Sony Sports,Kabaddi,Pro Kabaddi League,Mar,1499991,47.5,Female,45+,24360,4382,402108,1097883,2910360.05
+South,Tamil Nadu,DD Sports,Football,ISL,Nov,1748545,67.4,Female,25-34,13424,2568,469506,1279039,897978.75
+Central,Madhya Pradesh,DD Sports,Kabaddi,Pro Kabaddi League,Dec,461236,73.0,Male,25-34,20710,2318,178455,282781,262482.54
+North,Haryana,Star Sports,Tennis,Chennai Open,Apr,1686091,69.0,Female,25-34,10135,2937,753065,933026,1927291.43
+East,West Bengal,ESPN India,Cricket,World Cup,Feb,1601224,108.9,Female,25-34,2196,4205,607138,994086,2965586.37
+Central,Chhattisgarh,Sony Sports,Badminton,Asia Championships,Aug,1663559,115.3,Male,35-44,3176,3843,337660,1325899,2111190.07
+East,West Bengal,Star Sports,Badminton,India Open,Sep,496790,56.2,Female,15-24,34396,1729,192995,303795,932792.6
+North,Punjab,ESPN India,Kabaddi,Pro Kabaddi League,Feb,1102272,43.9,Female,15-24,46740,215,404193,698079,1189885.82
+Central,Chhattisgarh,DD Sports,Tennis,Chennai Open,Oct,525828,83.9,Male,15-24,16417,253,206349,319479,987167.73
+West,Goa,ESPN India,Tennis,India Tennis Cup,Sep,1085891,103.2,Female,25-34,10256,4300,533981,551910,915451.3
+South,Kerala,DD Sports,Tennis,India Tennis Cup,Aug,1189904,106.0,Male,35-44,35540,2060,532403,657501,2291384.75
+West,Gujarat,Sony Sports,Football,Santosh Trophy,Jan,390676,74.1,Female,15-24,23626,2735,111051,279625,639991.51
+South,Karnataka,Jio Sports,Tennis,Chennai Open,Nov,1207522,60.2,Male,25-34,43998,4747,551664,655858,1329980.0
+South,Andhra Pradesh,Sony Sports,Football,Santosh Trophy,Apr,1824029,65.0,Male,15-24,48857,2775,484992,1339037,1471428.38
+West,Maharashtra,Star Sports,Hockey,Hockey India League,Sep,1880791,49.8,Male,35-44,17998,3071,835371,1045420,2734789.93
+North,Uttar Pradesh,Jio Sports,Hockey,Hockey India League,Jun,464170,113.8,Male,15-24,36236,1490,222476,241694,796663.27
+East,Odisha,Jio Sports,Tennis,Chennai Open,Oct,1667959,91.3,Female,35-44,48068,3707,810141,857818,1716169.53
+East,West Bengal,Star Sports,Kabaddi,Pro Kabaddi League,Mar,397139,107.0,Female,45+,7614,3352,180509,216630,366840.73
+East,West Bengal,ESPN India,Hockey,Hockey India League,Oct,1868902,56.1,Female,45+,38044,4876,412462,1456440,934483.62
+Central,Chhattisgarh,DD Sports,Hockey,Hockey India League,Aug,315976,53.0,Male,35-44,43633,2827,152175,163801,265163.27
+South,Karnataka,Sony Sports,Hockey,Hockey India League,Dec,1445796,39.2,Female,15-24,39578,441,591067,854729,2304623.68
+South,Tamil Nadu,Sony Sports,Football,Santosh Trophy,Oct,258859,91.8,Female,25-34,46475,2898,105350,153509,290935.73
+North,Uttar Pradesh,Sony Sports,Football,ISL,Feb,1252060,46.8,Female,45+,36517,1235,467283,784777,2160015.35
+East,Bihar,DD Sports,Hockey,Hockey India League,May,1581064,109.7,Female,35-44,31581,3911,614588,966476,3126218.25
+West,Goa,DD Sports,Tennis,India Tennis Cup,Nov,1518919,72.0,Female,25-34,19375,371,412015,1106904,938211.55
+South,Karnataka,Jio Sports,Hockey,Hockey India League,Jun,322158,17.2,Male,45+,31881,4449,88224,233934,443179.61
+South,Andhra Pradesh,ESPN India,Hockey,Hockey India League,Jun,365018,65.6,Male,15-24,3832,4007,113693,251325,702226.35
+East,Assam,Sony Sports,Kabaddi,Pro Kabaddi League,May,1439678,94.7,Male,25-34,32845,2900,411277,1028401,1829516.45
+Central,Chhattisgarh,Sony Sports,Cricket,Ranji Trophy,Apr,485928,117.1,Male,25-34,30566,4299,217878,268050,374307.24
+East,Odisha,Jio Sports,Badminton,India Open,Jul,438518,111.7,Male,45+,1406,266,158518,280000,778679.67
+West,Maharashtra,ESPN India,Football,Santosh Trophy,Feb,1621128,99.7,Female,45+,19908,2220,677273,943855,1650329.26
+South,Tamil Nadu,Star Sports,Kabaddi,Pro Kabaddi League,Jan,742485,31.5,Male,35-44,37176,660,223085,519400,1180985.61
+West,Gujarat,Star Sports,Badminton,Asia Championships,Mar,312318,72.7,Male,25-34,13112,1597,115372,196946,232537.31
+West,Goa,ESPN India,Football,ISL,Jun,362863,110.2,Male,45+,42328,142,139278,223585,638093.13
+East,Assam,ESPN India,Tennis,Chennai Open,Jun,855351,79.7,Female,15-24,5769,4896,223021,632330,552788.96
+South,Karnataka,Star Sports,Football,ISL,Sep,1711655,100.8,Male,25-34,18376,2486,493879,1217776,1958807.57
+East,Odisha,Star Sports,Kabaddi,Pro Kabaddi League,Sep,1083668,105.6,Male,25-34,46580,1955,308265,775403,1703110.13
+East,Odisha,Jio Sports,Football,Santosh Trophy,Dec,1418722,28.8,Female,15-24,2481,3831,540582,878140,2150397.54
+North,Delhi,Star Sports,Kabaddi,Pro Kabaddi League,Aug,175355,106.5,Female,25-34,18266,4508,72420,102935,297230.6
+Central,Madhya Pradesh,Sony Sports,Hockey,Hockey India League,Sep,1609757,75.0,Male,15-24,25335,3162,503110,1106647,2992748.48
+West,Maharashtra,Jio Sports,Badminton,Asia Championships,Mar,1931297,32.1,Female,35-44,41928,212,822244,1109053,1022995.44
+West,Goa,Sony Sports,Kabaddi,Pro Kabaddi League,Sep,295300,52.1,Male,15-24,2424,3049,120473,174827,295617.43
+East,Odisha,Star Sports,Kabaddi,Pro Kabaddi League,Sep,1240456,78.6,Female,15-24,1887,3204,293498,946958,1151933.94
+Central,Chhattisgarh,Star Sports,Kabaddi,Pro Kabaddi League,Oct,692927,86.1,Male,45+,27049,4161,277144,415783,735113.48
+Central,Madhya Pradesh,Sony Sports,Kabaddi,Pro Kabaddi League,Jul,533779,97.4,Female,25-34,16950,4410,109631,424148,426216.24
+West,Rajasthan,Jio Sports,Tennis,Chennai Open,Dec,1618146,78.1,Male,35-44,23931,2861,427870,1190276,3029325.74
+South,Andhra Pradesh,Jio Sports,Cricket,IPL,Aug,1124567,69.5,Male,35-44,11561,617,539511,585056,1486314.39
+North,Punjab,Star Sports,Hockey,Hockey India League,Aug,1947883,92.5,Male,15-24,45505,4620,738092,1209791,1571280.98
+East,West Bengal,Sony Sports,Badminton,India Open,Jun,793088,42.7,Female,35-44,46833,307,301942,491146,1146845.46
+East,Assam,Star Sports,Football,ISL,May,1294951,116.7,Female,35-44,33182,3466,392336,902615,981787.7
+North,Punjab,Sony Sports,Cricket,World Cup,Oct,1034558,46.2,Female,25-34,47005,2295,221989,812569,1446898.55
+South,Andhra Pradesh,ESPN India,Hockey,Hockey India League,May,538019,73.1,Male,35-44,20233,1842,254145,283874,723899.16
+West,Rajasthan,Star Sports,Badminton,India Open,Jun,62360,79.1,Male,25-34,46800,4295,17961,44399,54520.51
+North,Haryana,Star Sports,Cricket,Ranji Trophy,Jul,330833,114.4,Female,25-34,43137,4857,79457,251376,631423.11
+East,Assam,Star Sports,Hockey,Hockey India League,May,1486564,76.7,Female,35-44,19845,4220,652915,833649,855864.57
+West,Rajasthan,Jio Sports,Badminton,Asia Championships,Dec,243984,76.2,Female,15-24,18200,182,120866,123118,472443.67
+West,Maharashtra,ESPN India,Football,Santosh Trophy,Mar,520435,79.8,Male,25-34,25351,275,146910,373525,779347.13
+South,Karnataka,Sony Sports,Tennis,Chennai Open,Nov,132289,49.3,Male,25-34,8674,1464,36665,95624,247621.59
+Central,Chhattisgarh,DD Sports,Hockey,Hockey India League,Nov,1884907,100.8,Female,35-44,3426,172,455402,1429505,2181925.88
+West,Rajasthan,Star Sports,Tennis,India Tennis Cup,Jul,773858,79.4,Female,15-24,36192,1164,250083,523775,667865.08
+South,Andhra Pradesh,Jio Sports,Cricket,IPL,Dec,846883,83.7,Female,35-44,44764,250,371606,475277,486981.32
+North,Punjab,Sony Sports,Hockey,Hockey India League,Jan,1718531,41.1,Male,45+,23520,4264,852179,866352,1058130.05
+West,Rajasthan,DD Sports,Kabaddi,Pro Kabaddi League,Jul,202353,63.2,Male,25-34,28586,4001,97381,104972,285337.48
+East,Assam,DD Sports,Tennis,India Tennis Cup,Jul,136346,54.1,Female,25-34,27249,1461,43844,92502,232829.27
+West,Maharashtra,Jio Sports,Tennis,India Tennis Cup,Jan,1037410,44.7,Female,35-44,48607,3857,365117,672293,1137180.04
+Central,Chhattisgarh,DD Sports,Hockey,Hockey India League,Dec,1885877,92.5,Female,45+,45781,790,522644,1363233,3123226.92
+Central,Madhya Pradesh,DD Sports,Hockey,Hockey India League,Jan,1121824,76.4,Male,35-44,9024,394,251031,870793,1013321.49
+East,West Bengal,Jio Sports,Hockey,Hockey India League,Apr,1273451,105.3,Female,25-34,19257,4763,287065,986386,2140747.56
+South,Kerala,Jio Sports,Football,Santosh Trophy,Feb,937553,41.1,Female,45+,6307,841,291510,646043,1070124.87
+East,Bihar,ESPN India,Football,Santosh Trophy,Feb,748787,30.2,Male,45+,26934,162,254208,494579,702792.51
+South,Andhra Pradesh,ESPN India,Kabaddi,Pro Kabaddi League,Apr,358362,36.1,Male,15-24,32957,4451,114800,243562,398301.19
+West,Rajasthan,DD Sports,Badminton,Asia Championships,Dec,1283770,112.3,Male,45+,4278,922,452749,831021,2014800.0
+Central,Chhattisgarh,Jio Sports,Badminton,Asia Championships,Feb,1175285,42.3,Male,35-44,32781,1024,356638,818647,711914.69
+South,Karnataka,DD Sports,Hockey,Hockey India League,Feb,478745,93.4,Female,15-24,36436,902,104003,374742,818063.56
+West,Rajasthan,Star Sports,Hockey,Hockey India League,Aug,702416,41.2,Female,45+,27935,4941,285925,416491,915480.35
+South,Andhra Pradesh,Star Sports,Badminton,Asia Championships,Sep,1942628,23.0,Male,35-44,4927,2691,538576,1404052,3329638.36
+South,Tamil Nadu,Sony Sports,Badminton,Asia Championships,Sep,1016020,52.2,Female,25-34,16721,4509,408417,607603,1942306.35
+East,Assam,ESPN India,Cricket,World Cup,Jul,1522608,109.9,Male,25-34,18413,2256,615770,906838,1910414.29
+Central,Madhya Pradesh,DD Sports,Cricket,Ranji Trophy,Jul,116197,98.4,Male,35-44,33854,2612,39917,76280,118192.35
+Central,Chhattisgarh,Star Sports,Tennis,India Tennis Cup,Apr,1843999,61.1,Female,35-44,47364,3410,508010,1335989,2785301.71
+South,Andhra Pradesh,Jio Sports,Kabaddi,Pro Kabaddi League,Feb,282076,55.4,Female,35-44,6520,3418,79947,202129,141880.9
+Central,Madhya Pradesh,Star Sports,Tennis,India Tennis Cup,Nov,697652,69.1,Male,35-44,5757,4953,195538,502114,436263.78
+North,Haryana,Star Sports,Cricket,IPL,Dec,419360,91.9,Female,45+,42458,4829,157571,261789,432530.84
+East,Odisha,DD Sports,Kabaddi,Pro Kabaddi League,Dec,1617739,27.4,Female,25-34,47313,3711,526343,1091396,1563550.8
+North,Punjab,Sony Sports,Badminton,India Open,Jun,1884662,56.1,Female,25-34,48221,4082,909690,974972,3060852.56
+North,Uttar Pradesh,Sony Sports,Hockey,Hockey India League,Dec,629223,73.5,Male,25-34,16534,3460,198275,430948,719463.96
+South,Karnataka,DD Sports,Tennis,India Tennis Cup,Nov,1672034,58.2,Female,35-44,38865,548,495435,1176599,1346824.57
+Central,Chhattisgarh,ESPN India,Football,Santosh Trophy,Dec,1783985,106.4,Female,35-44,44937,4288,671515,1112470,2316961.4
+West,Gujarat,Sony Sports,Badminton,India Open,Nov,738332,67.0,Female,35-44,28964,3072,214864,523468,855463.46
+North,Haryana,Jio Sports,Hockey,Hockey India League,Nov,819305,27.0,Female,25-34,16810,916,283738,535567,1578934.32
+South,Karnataka,Jio Sports,Kabaddi,Pro Kabaddi League,Jul,574480,98.2,Female,35-44,33130,3800,284117,290363,478456.07
+East,Odisha,Jio Sports,Kabaddi,Pro Kabaddi League,Jul,1277545,16.0,Male,45+,40579,1196,541703,735842,1665260.62
+West,Goa,Sony Sports,Hockey,Hockey India League,Nov,823952,106.8,Female,15-24,28048,2646,297022,526930,569416.44
+West,Maharashtra,ESPN India,Cricket,World Cup,Sep,1564101,62.4,Male,45+,5434,758,410628,1153473,2787949.08
+East,Assam,DD Sports,Hockey,Hockey India League,Oct,1062140,16.4,Female,45+,44949,4737,376738,685402,1563110.39
+Central,Madhya Pradesh,DD Sports,Tennis,India Tennis Cup,Sep,1646049,36.4,Male,15-24,12999,3819,377716,1268333,2989267.25
+West,Rajasthan,ESPN India,Kabaddi,Pro Kabaddi League,Aug,1101339,93.0,Male,25-34,26307,2972,490628,610711,2172458.37
+North,Punjab,Star Sports,Badminton,India Open,Aug,1266593,99.4,Female,25-34,3382,631,490627,775966,2527832.78
+West,Rajasthan,Sony Sports,Cricket,IPL,Dec,1583673,38.1,Male,35-44,47773,305,639252,944421,1676792.83
+North,Punjab,ESPN India,Hockey,Hockey India League,Aug,1571722,54.3,Male,15-24,25123,2990,452672,1119050,2334155.27
+South,Tamil Nadu,Jio Sports,Badminton,Asia Championships,Sep,1207738,54.8,Male,45+,34665,1185,267168,940570,2129831.78
+Central,Madhya Pradesh,Jio Sports,Tennis,Chennai Open,May,884440,99.5,Male,35-44,45535,4914,440811,443629,506772.18
+North,Punjab,Sony Sports,Hockey,Hockey India League,Jan,1977075,76.3,Female,35-44,35660,3539,533901,1443174,3217927.78
+East,Bihar,ESPN India,Football,Santosh Trophy,Apr,1199734,94.6,Male,45+,45386,143,356031,843703,1935626.58
+East,Assam,Sony Sports,Football,Santosh Trophy,May,1971606,51.4,Female,35-44,35693,3072,593956,1377650,1455081.33
+Central,Chhattisgarh,ESPN India,Football,ISL,Jul,1847519,77.7,Female,35-44,16935,903,503238,1344281,3286509.86
+West,Rajasthan,DD Sports,Cricket,IPL,Mar,662084,31.4,Female,45+,37284,3440,205434,456650,1038920.04
+East,Bihar,Sony Sports,Hockey,Hockey India League,Oct,504151,34.5,Female,25-34,41172,1054,163067,341084,903575.0
+East,West Bengal,ESPN India,Cricket,IPL,Mar,581147,93.3,Female,35-44,22839,2740,164289,416858,800240.66
+East,Assam,Star Sports,Football,Santosh Trophy,Aug,1552385,101.3,Female,15-24,46713,483,597918,954467,2055379.42
+South,Karnataka,DD Sports,Kabaddi,Pro Kabaddi League,May,257352,113.6,Female,15-24,28869,4351,108289,149063,307451.25
+Central,Chhattisgarh,DD Sports,Tennis,Chennai Open,May,639421,77.5,Female,25-34,8957,3146,277756,361665,1064754.72
+Central,Madhya Pradesh,Star Sports,Kabaddi,Pro Kabaddi League,Dec,1591326,94.9,Male,25-34,38701,1463,424236,1167090,2642387.03
+South,Karnataka,DD Sports,Cricket,World Cup,Aug,1252515,60.4,Male,15-24,26344,3848,487850,764665,1113942.59
+South,Karnataka,Sony Sports,Badminton,India Open,Jul,917196,40.6,Female,35-44,43500,2975,216683,700513,512225.52
+Central,Madhya Pradesh,DD Sports,Tennis,India Tennis Cup,Jan,1525249,60.0,Male,35-44,1365,3675,403991,1121258,1506848.29
+West,Goa,Jio Sports,Cricket,World Cup,Jul,402156,85.0,Female,25-34,33001,2478,148426,253730,691334.49
+East,Assam,ESPN India,Football,ISL,Jul,1316556,25.0,Male,35-44,28923,1775,631715,684841,1303336.3
+East,West Bengal,Star Sports,Cricket,IPL,Dec,638574,85.8,Male,15-24,38228,4546,165772,472802,357937.48
+Central,Madhya Pradesh,ESPN India,Tennis,Chennai Open,Sep,302156,115.9,Female,15-24,11698,3870,122243,179913,535954.8
+East,West Bengal,DD Sports,Tennis,India Tennis Cup,Jan,1124101,47.8,Male,45+,7644,2950,371118,752983,588595.44
+East,West Bengal,DD Sports,Badminton,Asia Championships,Mar,307438,80.5,Female,45+,18375,3939,83222,224216,439417.84
+Central,Chhattisgarh,ESPN India,Tennis,Chennai Open,Jan,1798322,58.6,Male,25-34,28772,4534,392890,1405432,2466264.77
+South,Andhra Pradesh,Sony Sports,Badminton,Asia Championships,May,1960332,92.0,Male,25-34,37289,672,604769,1355563,2124697.42
+South,Tamil Nadu,Sony Sports,Hockey,Hockey India League,May,1595491,106.2,Male,25-34,34418,2687,525164,1070327,2060602.47
+West,Gujarat,Jio Sports,Kabaddi,Pro Kabaddi League,Aug,952458,61.5,Male,45+,31257,2317,342137,610321,1497883.3
+South,Kerala,Star Sports,Kabaddi,Pro Kabaddi League,Mar,1702632,114.7,Female,25-34,31908,3061,593877,1108755,1776946.75
+North,Haryana,Jio Sports,Football,ISL,Nov,1596933,113.9,Female,35-44,26515,3816,619711,977222,928754.07
+South,Kerala,Sony Sports,Cricket,World Cup,Feb,968074,83.1,Male,35-44,19889,1017,281574,686500,710866.28
+Central,Madhya Pradesh,Sony Sports,Cricket,World Cup,Jun,901007,58.5,Female,25-34,17999,4601,231489,669518,1065673.23
+South,Karnataka,Star Sports,Cricket,IPL,Jul,1253118,114.6,Male,25-34,45435,4629,456294,796824,2091020.21
+South,Kerala,Jio Sports,Hockey,Hockey India League,Jul,1434822,62.6,Male,45+,35087,1241,643618,791204,2193198.34
+West,Rajasthan,ESPN India,Cricket,Ranji Trophy,Jun,293877,66.3,Male,45+,6213,4208,99689,194188,214687.89
+North,Punjab,DD Sports,Hockey,Hockey India League,Oct,1517172,82.5,Male,25-34,24989,1710,379085,1138087,2107746.78
+West,Rajasthan,Jio Sports,Kabaddi,Pro Kabaddi League,Jun,1907447,88.8,Male,25-34,46351,4835,613770,1293677,2717104.34
+South,Tamil Nadu,Jio Sports,Kabaddi,Pro Kabaddi League,Mar,875782,84.2,Male,15-24,19950,1075,205919,669863,1571586.64
+West,Rajasthan,DD Sports,Cricket,IPL,Jan,1558590,54.4,Male,45+,41150,3427,459728,1098862,2655775.75
+Central,Chhattisgarh,ESPN India,Football,ISL,Jun,769778,37.7,Male,25-34,17848,3394,338575,431203,1508821.79
+Central,Chhattisgarh,ESPN India,Badminton,India Open,Sep,761943,96.5,Female,45+,32085,3956,165927,596016,1355360.31
+West,Maharashtra,Star Sports,Kabaddi,Pro Kabaddi League,Nov,1713900,55.5,Male,15-24,23449,1194,813193,900707,1398867.45
+East,Bihar,DD Sports,Kabaddi,Pro Kabaddi League,Jan,1604209,20.8,Male,35-44,3775,4759,573529,1030680,1857168.81
+South,Karnataka,Sony Sports,Cricket,Ranji Trophy,Mar,462755,94.7,Female,35-44,15119,683,96289,366466,536615.66
+North,Punjab,Sony Sports,Cricket,Ranji Trophy,Jun,256903,36.8,Male,35-44,26479,961,116462,140441,136359.29
+South,Andhra Pradesh,ESPN India,Badminton,India Open,Sep,1967577,52.3,Male,15-24,18420,4231,832406,1135171,1605071.42
+Central,Chhattisgarh,ESPN India,Hockey,Hockey India League,Nov,1896357,96.6,Female,45+,13453,2530,437165,1459192,3754964.46
+Central,Chhattisgarh,DD Sports,Football,Santosh Trophy,Aug,1638599,65.9,Male,45+,24926,4206,778628,859971,2204100.07
+East,Assam,DD Sports,Cricket,World Cup,Oct,453551,65.2,Male,25-34,35057,1547,205552,247999,433338.91
+East,West Bengal,ESPN India,Cricket,World Cup,Jul,764647,43.7,Male,15-24,47525,3316,239182,525465,888993.69
+South,Kerala,DD Sports,Hockey,Hockey India League,Dec,1543726,101.4,Male,45+,11345,325,629935,913791,1833401.76
+South,Tamil Nadu,Sony Sports,Tennis,India Tennis Cup,Oct,1753820,72.5,Female,25-34,46991,2253,694305,1059515,1702631.69
+Central,Madhya Pradesh,DD Sports,Kabaddi,Pro Kabaddi League,Dec,1875598,74.1,Male,35-44,36871,2540,866701,1008897,3583571.58
+Central,Chhattisgarh,Star Sports,Tennis,Chennai Open,Nov,901161,66.4,Male,45+,15031,546,397818,503343,1206986.46
+East,Bihar,Sony Sports,Badminton,Asia Championships,Jan,167797,52.9,Male,15-24,33994,4243,41703,126094,186289.44
+Central,Chhattisgarh,Star Sports,Football,Santosh Trophy,Feb,514310,58.7,Female,15-24,48327,2977,149377,364933,954017.8
+Central,Chhattisgarh,Jio Sports,Tennis,India Tennis Cup,Mar,1060540,33.4,Male,15-24,38842,1981,227557,832983,1913648.05
+West,Gujarat,Sony Sports,Tennis,Chennai Open,Jul,1905797,73.0,Male,35-44,49920,2992,821498,1084299,2844403.72
+South,Tamil Nadu,Jio Sports,Cricket,Ranji Trophy,Aug,523573,104.7,Female,15-24,17436,1857,241108,282465,932688.33
+North,Punjab,Star Sports,Football,ISL,Mar,231890,101.7,Female,25-34,9597,2394,103226,128664,314649.39
+North,Haryana,Jio Sports,Kabaddi,Pro Kabaddi League,May,1866760,41.5,Male,35-44,28529,4582,493398,1373362,3436663.73
+South,Andhra Pradesh,ESPN India,Kabaddi,Pro Kabaddi League,Jan,384923,103.7,Male,15-24,13100,407,128166,256757,580905.36
+West,Gujarat,DD Sports,Badminton,Asia Championships,Nov,1293048,69.6,Male,35-44,47675,3658,548519,744529,1788802.1
+South,Tamil Nadu,Sony Sports,Football,Santosh Trophy,Apr,957651,106.4,Male,15-24,33369,375,478638,479013,1019702.41
+East,Bihar,Sony Sports,Badminton,Asia Championships,Feb,574624,63.1,Female,25-34,34678,2096,261101,313523,368141.36
+Central,Madhya Pradesh,Star Sports,Badminton,India Open,Jan,1298313,114.6,Female,45+,41214,3857,556814,741499,1836999.08
+Central,Madhya Pradesh,Star Sports,Cricket,Ranji Trophy,Sep,935050,110.4,Female,15-24,25486,1620,400722,534328,1551037.03
+South,Andhra Pradesh,Jio Sports,Badminton,India Open,Apr,1509900,66.2,Female,35-44,34489,1012,684970,824930,2349593.0
+West,Rajasthan,Jio Sports,Badminton,Asia Championships,May,537436,56.8,Female,15-24,34885,3509,144660,392776,406335.23
+Central,Chhattisgarh,Star Sports,Cricket,Ranji Trophy,Feb,867108,19.8,Male,45+,40760,3083,235101,632007,728467.64
+East,Assam,DD Sports,Cricket,World Cup,Aug,525278,68.5,Female,45+,40390,4760,119143,406135,302226.32
+East,Assam,Star Sports,Tennis,India Tennis Cup,Aug,1096195,104.6,Female,45+,36464,1817,456521,639674,2186467.74
+West,Rajasthan,Jio Sports,Tennis,Chennai Open,Mar,518011,62.1,Male,45+,26864,3971,255125,262886,297556.69
+Central,Madhya Pradesh,Star Sports,Cricket,IPL,Feb,1904700,78.9,Male,25-34,19074,1444,888585,1016115,2697352.52
+Central,Chhattisgarh,DD Sports,Cricket,World Cup,Feb,626553,93.8,Female,35-44,48966,1604,239577,386976,535953.43
+West,Rajasthan,Sony Sports,Cricket,World Cup,Mar,681516,102.7,Female,25-34,10783,4585,165644,515872,714793.55
+North,Delhi,ESPN India,Football,Santosh Trophy,Aug,816565,101.8,Male,45+,5917,1356,403590,412975,754670.76
+Central,Chhattisgarh,Jio Sports,Cricket,IPL,Nov,587970,18.2,Female,35-44,24666,1573,233116,354854,883014.44
+Central,Chhattisgarh,DD Sports,Badminton,India Open,Apr,477858,77.7,Female,35-44,10221,3318,147597,330261,376774.23
+Central,Madhya Pradesh,Jio Sports,Football,Santosh Trophy,Sep,1099627,114.5,Female,15-24,33323,3897,270033,829594,1007474.98
+East,Assam,DD Sports,Tennis,India Tennis Cup,Oct,1622138,62.8,Female,45+,4359,3276,645723,976415,1655114.39
+North,Delhi,ESPN India,Kabaddi,Pro Kabaddi League,Oct,470539,47.7,Female,45+,26954,4991,95505,375034,419519.77
+Central,Chhattisgarh,Star Sports,Kabaddi,Pro Kabaddi League,Dec,586785,71.8,Male,45+,14255,4667,118819,467966,621266.48
+East,West Bengal,ESPN India,Kabaddi,Pro Kabaddi League,Jul,1801939,32.3,Female,45+,44919,283,793669,1008270,2509775.33
+East,Assam,Jio Sports,Badminton,India Open,Oct,400679,62.1,Female,45+,41446,1373,159299,241380,203360.55
+Central,Madhya Pradesh,DD Sports,Cricket,Ranji Trophy,Jan,212421,93.9,Male,25-34,33703,3181,64030,148391,162669.61
+South,Karnataka,DD Sports,Tennis,India Tennis Cup,Jun,1430503,94.5,Female,15-24,11703,370,364461,1066042,1707429.45
+Central,Chhattisgarh,Star Sports,Hockey,Hockey India League,May,979896,58.2,Female,25-34,7305,2498,294893,685003,1014342.35
+South,Kerala,Sony Sports,Badminton,Asia Championships,Jan,652251,48.0,Male,25-34,3230,228,148223,504028,756667.95
+Central,Madhya Pradesh,DD Sports,Kabaddi,Pro Kabaddi League,Mar,993681,50.9,Male,15-24,47040,727,441801,551880,675540.75
+North,Haryana,Star Sports,Tennis,Chennai Open,Oct,318733,27.3,Male,25-34,39652,3314,112913,205820,613513.06
+East,Odisha,Star Sports,Hockey,Hockey India League,Jul,1642173,60.6,Male,45+,32508,1083,527426,1114747,1108260.87
+North,Haryana,DD Sports,Badminton,India Open,Sep,1376980,19.8,Male,45+,42430,2087,541788,835192,1889389.59
+South,Andhra Pradesh,Sony Sports,Kabaddi,Pro Kabaddi League,Apr,1701348,74.5,Male,15-24,10878,291,431642,1269706,3143376.03
+Central,Chhattisgarh,Sony Sports,Tennis,Chennai Open,Jun,499777,114.0,Male,45+,4783,4398,165840,333937,850356.1
+Central,Madhya Pradesh,DD Sports,Kabaddi,Pro Kabaddi League,Mar,1985364,22.9,Female,15-24,48159,4638,933874,1051490,3912859.29
+North,Haryana,Sony Sports,Tennis,India Tennis Cup,Sep,1512108,109.0,Male,25-34,31209,459,653409,858699,829640.99
+Central,Chhattisgarh,Jio Sports,Badminton,Asia Championships,Jul,162669,38.4,Female,35-44,5006,1725,39197,123472,273973.38
+West,Gujarat,Sony Sports,Cricket,IPL,Feb,539415,113.5,Male,15-24,42691,4061,221750,317665,911803.37
+Central,Chhattisgarh,DD Sports,Cricket,Ranji Trophy,Oct,222646,60.3,Male,45+,30345,1687,46552,176094,120423.66
+West,Maharashtra,Sony Sports,Tennis,India Tennis Cup,Jul,689872,38.8,Female,25-34,11350,2532,250163,439709,606595.6
+East,Odisha,Sony Sports,Cricket,IPL,Feb,1278265,101.5,Female,35-44,10424,4217,501384,776881,1554402.96
+Central,Madhya Pradesh,DD Sports,Tennis,India Tennis Cup,Sep,1051452,31.6,Male,25-34,38392,2137,275293,776159,855449.84
+North,Uttar Pradesh,Jio Sports,Hockey,Hockey India League,Aug,976352,52.6,Female,15-24,21908,2921,243720,732632,1316642.17
+Central,Chhattisgarh,DD Sports,Cricket,IPL,Apr,287069,99.9,Female,45+,10968,2562,110724,176345,274130.47
+South,Karnataka,ESPN India,Hockey,Hockey India League,Feb,1879538,86.3,Male,45+,1406,3176,930321,949217,1818834.95
+South,Tamil Nadu,Sony Sports,Football,Santosh Trophy,Apr,1168597,83.9,Female,45+,23673,1511,527779,640818,1569756.74
+South,Kerala,ESPN India,Football,ISL,Apr,1758557,38.5,Female,35-44,30227,3034,433557,1325000,2230642.54
+Central,Chhattisgarh,ESPN India,Hockey,Hockey India League,May,628110,84.5,Female,25-34,24888,2566,137214,490896,648209.09
+North,Delhi,Star Sports,Hockey,Hockey India League,May,1640883,113.7,Male,15-24,11283,1995,485036,1155847,1607208.94
+North,Punjab,Jio Sports,Football,ISL,Jun,859340,41.8,Male,35-44,38952,2502,333392,525948,887136.66
+West,Rajasthan,ESPN India,Hockey,Hockey India League,Dec,421852,71.5,Female,35-44,35724,4658,143642,278210,461037.4
+Central,Madhya Pradesh,Jio Sports,Hockey,Hockey India League,Jun,643731,18.1,Female,45+,31607,4624,214428,429303,534382.36
+South,Andhra Pradesh,ESPN India,Tennis,Chennai Open,Nov,950959,73.5,Male,25-34,29807,4987,224618,726341,1857234.25
+Central,Chhattisgarh,Sony Sports,Hockey,Hockey India League,Oct,633838,38.1,Female,45+,37343,975,134732,499106,1188212.25
+East,West Bengal,Star Sports,Cricket,Ranji Trophy,Jan,739129,45.0,Female,15-24,20229,1581,299365,439764,718609.85
+Central,Chhattisgarh,Sony Sports,Football,Santosh Trophy,Jul,409281,60.0,Male,25-34,24099,3781,121462,287819,710801.29
+North,Uttar Pradesh,Star Sports,Football,ISL,Nov,1940476,15.8,Female,35-44,2657,2641,587157,1353319,1283472.11
+West,Rajasthan,DD Sports,Cricket,IPL,Nov,315308,41.4,Male,45+,20601,3954,71097,244211,386577.34
+North,Delhi,Sony Sports,Tennis,Chennai Open,Jan,1869231,109.7,Male,15-24,42989,2771,780750,1088481,3414211.59
+South,Tamil Nadu,Jio Sports,Tennis,Chennai Open,Jan,1438990,15.7,Female,25-34,31096,1575,602075,836915,1224358.02
+East,Odisha,Star Sports,Cricket,IPL,Nov,1926946,85.5,Male,25-34,44461,3462,763569,1163377,3699995.24
+South,Tamil Nadu,Jio Sports,Football,ISL,Jul,1381155,80.0,Male,25-34,28386,2223,532193,848962,2056897.48
+East,Odisha,Sony Sports,Hockey,Hockey India League,Nov,295984,47.0,Female,15-24,26416,1914,109723,186261,177157.72
+West,Maharashtra,Jio Sports,Cricket,IPL,Jul,1770444,47.3,Female,35-44,47335,4225,766952,1003492,2946790.23
+North,Delhi,Sony Sports,Football,ISL,Nov,609073,58.9,Female,25-34,20480,1709,273303,335770,1124925.53
+Central,Madhya Pradesh,Jio Sports,Football,Santosh Trophy,Aug,665416,50.8,Female,25-34,7782,2060,194886,470530,385001.01
+East,Assam,DD Sports,Kabaddi,Pro Kabaddi League,Feb,1962162,32.1,Male,35-44,11338,1720,626450,1335712,3438533.52
+West,Gujarat,Jio Sports,Kabaddi,Pro Kabaddi League,Feb,398844,42.8,Female,25-34,3941,1077,162976,235868,229707.7
+East,West Bengal,ESPN India,Cricket,IPL,Sep,1464474,16.0,Male,35-44,9378,1981,547712,916762,2811986.4
+East,Bihar,Star Sports,Tennis,Chennai Open,Jun,1619720,47.2,Male,15-24,23831,2445,427264,1192456,2239308.79
+North,Punjab,Star Sports,Badminton,Asia Championships,Oct,1009820,15.7,Male,45+,49601,2430,333378,676442,1362355.71
+West,Goa,Jio Sports,Hockey,Hockey India League,Nov,1917014,68.9,Female,45+,22054,2159,882614,1034400,2138896.28
+West,Rajasthan,Star Sports,Badminton,India Open,Jan,1126778,38.6,Female,15-24,21855,1927,291053,835725,1944771.47
+South,Andhra Pradesh,Sony Sports,Badminton,India Open,Aug,1006228,35.3,Male,35-44,30301,1984,475972,530256,1448651.89
+Central,Chhattisgarh,DD Sports,Kabaddi,Pro Kabaddi League,Oct,983476,37.2,Male,15-24,2094,3295,467095,516381,1611553.67
+West,Goa,Star Sports,Football,ISL,Jan,1840146,87.8,Female,45+,25338,4656,652668,1187478,2498906.89
+West,Rajasthan,ESPN India,Hockey,Hockey India League,Sep,1151887,110.6,Male,35-44,25860,1287,473521,678366,1280407.24
+West,Gujarat,ESPN India,Badminton,Asia Championships,Feb,381999,21.0,Male,35-44,21323,144,113107,268892,384405.1
+North,Uttar Pradesh,DD Sports,Tennis,India Tennis Cup,Dec,551793,82.4,Male,45+,7364,2681,243876,307917,555085.23
+North,Delhi,ESPN India,Hockey,Hockey India League,Jun,1718462,39.1,Male,15-24,15226,3506,705968,1012494,2988572.15
+East,Assam,Jio Sports,Tennis,India Tennis Cup,Oct,1083224,26.1,Male,35-44,29164,1015,364316,718908,1608131.37
+North,Uttar Pradesh,Sony Sports,Tennis,Chennai Open,May,578036,18.7,Female,25-34,45331,4813,274795,303241,726549.94
+North,Haryana,ESPN India,Badminton,Asia Championships,Dec,447891,98.4,Male,15-24,13450,2588,92632,355259,564621.98
+Central,Chhattisgarh,ESPN India,Badminton,India Open,Sep,937198,64.1,Female,15-24,23337,4382,387221,549977,1046649.34
+South,Andhra Pradesh,ESPN India,Cricket,World Cup,Jan,1082321,84.9,Female,35-44,39751,243,340248,742073,1588080.77
+South,Karnataka,DD Sports,Tennis,India Tennis Cup,Jan,457974,87.4,Male,25-34,3176,986,100604,357370,297371.57
+Central,Madhya Pradesh,ESPN India,Kabaddi,Pro Kabaddi League,May,757910,100.9,Female,25-34,36422,3892,375272,382638,1390666.37
+South,Tamil Nadu,ESPN India,Tennis,Chennai Open,Dec,1181867,83.5,Male,25-34,22684,1231,521792,660075,699086.99
+West,Maharashtra,Sony Sports,Tennis,Chennai Open,Jun,1053466,85.8,Male,25-34,40404,111,217283,836183,766568.35
+South,Tamil Nadu,ESPN India,Tennis,India Tennis Cup,Aug,1838698,78.3,Male,25-34,30327,2177,591560,1247138,1962168.69
+East,Assam,Jio Sports,Tennis,Chennai Open,Aug,1462891,38.8,Female,35-44,9635,397,394141,1068750,1243456.23
+East,Odisha,Jio Sports,Kabaddi,Pro Kabaddi League,Feb,1468060,83.5,Male,15-24,30092,1369,442852,1025208,1022445.97
+West,Rajasthan,Jio Sports,Hockey,Hockey India League,Jan,221541,88.6,Male,45+,30978,4531,102662,118879,224194.61
+West,Gujarat,Sony Sports,Football,ISL,Jun,104745,58.2,Male,25-34,22067,1981,33703,71042,54522.25
+North,Punjab,Sony Sports,Badminton,India Open,Dec,289455,103.4,Female,45+,8206,4255,74672,214783,482285.06
+South,Kerala,Star Sports,Tennis,India Tennis Cup,Feb,1311179,66.7,Female,25-34,18793,1794,370702,940477,2239872.49
+South,Andhra Pradesh,Sony Sports,Kabaddi,Pro Kabaddi League,Aug,1867793,108.5,Female,35-44,32899,2272,905647,962146,1003053.84
+South,Karnataka,DD Sports,Cricket,Ranji Trophy,Dec,1978084,24.4,Female,15-24,25209,1851,947862,1030222,2000709.04
+East,Assam,DD Sports,Kabaddi,Pro Kabaddi League,Jun,1234895,30.8,Female,45+,6573,4231,297730,937165,2453959.08
+South,Tamil Nadu,DD Sports,Badminton,India Open,Nov,1236837,88.3,Male,35-44,47435,4635,423443,813394,2088135.57
+West,Gujarat,ESPN India,Kabaddi,Pro Kabaddi League,Jun,443120,79.5,Female,35-44,15629,294,110223,332897,390146.48
+North,Delhi,ESPN India,Kabaddi,Pro Kabaddi League,Apr,583903,84.5,Male,45+,6581,3914,253784,330119,306178.39
+East,West Bengal,Sony Sports,Football,Santosh Trophy,Feb,1177109,109.8,Female,35-44,19748,3729,346791,830318,826170.9
+West,Goa,DD Sports,Kabaddi,Pro Kabaddi League,Oct,825723,63.4,Male,35-44,38419,709,183909,641814,807055.93
+West,Goa,Star Sports,Cricket,Ranji Trophy,Feb,1004138,91.5,Male,35-44,23394,2353,380962,623176,680130.72
+South,Andhra Pradesh,Jio Sports,Kabaddi,Pro Kabaddi League,Jun,181936,48.9,Male,25-34,21955,4278,90224,91712,131417.14
+North,Haryana,ESPN India,Hockey,Hockey India League,Jul,1346573,104.4,Male,45+,23778,2438,455021,891552,2488711.76
+South,Karnataka,DD Sports,Kabaddi,Pro Kabaddi League,Apr,1671788,72.6,Male,25-34,21245,2085,793236,878552,2358396.22
+North,Haryana,Jio Sports,Tennis,India Tennis Cup,May,283979,55.9,Female,35-44,26216,4803,122759,161220,217342.03
+Central,Madhya Pradesh,Jio Sports,Hockey,Hockey India League,Jan,185150,57.5,Female,35-44,15389,2675,38319,146831,369069.37
+West,Goa,Star Sports,Badminton,India Open,Jan,887165,48.6,Female,25-34,24988,228,320139,567026,979479.47
+South,Kerala,Sony Sports,Cricket,IPL,Jan,668396,77.2,Male,15-24,3994,3844,161841,506555,968234.69
+West,Gujarat,Sony Sports,Tennis,India Tennis Cup,Jun,1751538,27.6,Male,45+,48315,1744,525488,1226050,1550312.99
+West,Gujarat,Jio Sports,Football,ISL,Feb,1702390,67.5,Male,45+,41037,270,405411,1296979,1327795.95
+Central,Madhya Pradesh,ESPN India,Kabaddi,Pro Kabaddi League,Dec,1334283,47.3,Male,35-44,19542,2072,359924,974359,2261293.17
+North,Uttar Pradesh,DD Sports,Cricket,World Cup,Dec,563066,28.2,Female,35-44,41745,957,248384,314682,372787.33
+North,Haryana,Sony Sports,Kabaddi,Pro Kabaddi League,Jan,1012454,71.8,Male,45+,14331,4406,328371,684083,1770403.16
+West,Maharashtra,DD Sports,Cricket,Ranji Trophy,Apr,1662210,72.2,Female,35-44,29621,1902,539095,1123115,2421276.83
+East,West Bengal,DD Sports,Hockey,Hockey India League,Sep,1094890,69.9,Male,35-44,43431,3049,241135,853755,961825.71
+South,Andhra Pradesh,ESPN India,Kabaddi,Pro Kabaddi League,May,710197,31.2,Female,35-44,49994,4523,215982,494215,976304.5
+East,West Bengal,Sony Sports,Badminton,India Open,Mar,1086149,22.8,Male,35-44,23886,3488,251889,834260,2166702.69
+Central,Chhattisgarh,ESPN India,Kabaddi,Pro Kabaddi League,Sep,1065691,73.4,Male,25-34,41874,3734,308495,757196,1989654.46
+Central,Madhya Pradesh,DD Sports,Cricket,Ranji Trophy,Jan,1880957,112.0,Female,25-34,26868,700,527202,1353755,3291310.85
+North,Haryana,DD Sports,Badminton,Asia Championships,Sep,1266053,85.9,Female,15-24,10290,465,507174,758879,1216497.71
+East,West Bengal,Sony Sports,Cricket,World Cup,May,1749163,41.3,Male,25-34,42750,3669,384084,1365079,2408273.28
+West,Maharashtra,Sony Sports,Kabaddi,Pro Kabaddi League,May,408766,100.7,Female,25-34,33284,2929,162000,246766,303665.93
+East,West Bengal,Jio Sports,Kabaddi,Pro Kabaddi League,Dec,1713773,26.2,Female,25-34,19157,2647,600179,1113594,1886960.47
+East,Assam,Star Sports,Football,ISL,Dec,1768350,118.5,Male,15-24,15693,2765,644341,1124009,2512770.86
+East,West Bengal,Sony Sports,Badminton,Asia Championships,Feb,983044,83.1,Male,25-34,12350,3690,361161,621883,1448169.38
+South,Karnataka,DD Sports,Kabaddi,Pro Kabaddi League,Feb,1654592,65.1,Male,15-24,1390,4576,752129,902463,1103303.66
+East,Bihar,Sony Sports,Hockey,Hockey India League,Nov,72490,28.3,Female,25-34,16284,1311,28893,43597,53931.92
+East,Bihar,DD Sports,Hockey,Hockey India League,Mar,1508819,21.1,Female,25-34,11310,4652,659884,848935,977550.77
+West,Gujarat,DD Sports,Cricket,World Cup,Aug,1196375,99.3,Male,45+,48025,855,474191,722184,740460.93
+Central,Madhya Pradesh,Sony Sports,Football,Santosh Trophy,Jan,1857642,30.6,Male,15-24,1507,1536,598475,1259167,1328593.33
+North,Delhi,ESPN India,Kabaddi,Pro Kabaddi League,Jul,386430,54.0,Female,45+,21900,3722,92364,294066,737831.23
+East,Bihar,Sony Sports,Cricket,IPL,Aug,1127209,67.8,Male,45+,48645,1401,404697,722512,1369850.11
+East,West Bengal,Jio Sports,Kabaddi,Pro Kabaddi League,Jan,953275,52.8,Male,15-24,49217,792,214739,738536,755752.37
+Central,Chhattisgarh,ESPN India,Cricket,World Cup,Jul,1203276,106.9,Male,35-44,36414,3920,556752,646524,1313019.67
+South,Karnataka,ESPN India,Tennis,Chennai Open,Jan,1367931,57.6,Male,35-44,10316,4085,667434,700497,1875389.41
+North,Haryana,Jio Sports,Tennis,India Tennis Cup,Jun,1726644,109.0,Female,15-24,7089,1647,857887,868757,3325169.69
+South,Tamil Nadu,Star Sports,Tennis,India Tennis Cup,Jun,451562,106.8,Male,25-34,43742,1664,179472,272090,415663.78
+West,Rajasthan,DD Sports,Badminton,Asia Championships,Aug,1526285,79.1,Female,25-34,6606,4056,602177,924108,1029766.78
+North,Uttar Pradesh,Star Sports,Kabaddi,Pro Kabaddi League,Apr,664673,109.8,Male,45+,27347,521,212803,451870,548022.33
+West,Gujarat,ESPN India,Football,Santosh Trophy,May,885488,35.7,Female,45+,16882,4775,220831,664657,707608.87
+North,Punjab,Star Sports,Cricket,World Cup,Apr,1388563,99.0,Female,25-34,18857,3343,547190,841373,2642528.76
+Central,Madhya Pradesh,DD Sports,Kabaddi,Pro Kabaddi League,May,1321209,77.8,Female,15-24,10782,4339,349696,971513,2377434.54
+North,Delhi,Star Sports,Badminton,Asia Championships,Apr,383478,38.2,Male,15-24,43614,4628,122128,261350,520537.44
+West,Rajasthan,DD Sports,Cricket,Ranji Trophy,Nov,1201404,101.6,Female,15-24,31916,3224,305298,896106,1543926.75
+South,Karnataka,Sony Sports,Cricket,IPL,Apr,952473,54.2,Male,15-24,41902,1024,321080,631393,493868.27
+Central,Madhya Pradesh,DD Sports,Hockey,Hockey India League,Feb,1693906,36.2,Male,35-44,16310,134,753217,940689,976918.46
+South,Karnataka,ESPN India,Hockey,Hockey India League,Feb,1478078,115.0,Female,45+,20522,1003,359999,1118079,1339035.19
+South,Andhra Pradesh,Sony Sports,Hockey,Hockey India League,Nov,1403849,68.1,Female,35-44,30122,656,640720,763129,1867029.27
+South,Kerala,Sony Sports,Football,Santosh Trophy,Mar,1896287,107.2,Male,35-44,7477,1116,626144,1270143,3558030.82
+North,Haryana,Sony Sports,Tennis,Chennai Open,Sep,567733,109.8,Male,35-44,15308,1551,143806,423927,322686.8
+West,Maharashtra,Sony Sports,Hockey,Hockey India League,Oct,780602,62.7,Female,15-24,37824,405,252319,528283,589222.28
+Central,Chhattisgarh,ESPN India,Cricket,Ranji Trophy,Apr,469515,69.4,Male,35-44,3936,3962,217393,252122,931638.89
+North,Haryana,Jio Sports,Football,Santosh Trophy,Feb,1047358,19.9,Female,35-44,28281,3615,294689,752669,790555.13
+North,Haryana,Jio Sports,Hockey,Hockey India League,Nov,1081259,58.1,Female,15-24,21590,4663,332438,748821,1480707.05
+West,Maharashtra,ESPN India,Tennis,India Tennis Cup,Jan,1105811,25.3,Female,25-34,42282,3069,494160,611651,1547073.37
+Central,Madhya Pradesh,Star Sports,Badminton,Asia Championships,Feb,654111,27.0,Male,25-34,28052,3440,138052,516059,493367.24
+West,Gujarat,Star Sports,Football,Santosh Trophy,Dec,881635,98.7,Female,45+,43049,4141,393466,488169,1164104.96
+Central,Chhattisgarh,ESPN India,Cricket,Ranji Trophy,Apr,1954814,22.6,Female,35-44,30809,3282,436451,1518363,2003502.12
+North,Punjab,Jio Sports,Tennis,India Tennis Cup,Sep,905754,49.1,Female,25-34,40449,4569,223607,682147,1445008.23
+West,Gujarat,ESPN India,Cricket,IPL,Dec,584231,58.0,Female,25-34,44894,3834,222125,362106,306729.29
+West,Rajasthan,Star Sports,Tennis,Chennai Open,Sep,1929314,91.7,Female,15-24,43939,798,771229,1158085,2041562.11
+Central,Chhattisgarh,Sony Sports,Football,Santosh Trophy,Mar,1767787,106.0,Female,45+,6296,226,457416,1310371,1986511.49
+East,Bihar,Jio Sports,Kabaddi,Pro Kabaddi League,Sep,1117599,80.0,Female,25-34,42979,4179,332231,785368,1847815.91
+Central,Chhattisgarh,Sony Sports,Cricket,IPL,Apr,1893884,31.7,Female,15-24,37854,2361,871371,1022513,3445736.8
+Central,Chhattisgarh,Sony Sports,Hockey,Hockey India League,Apr,1354295,58.0,Female,25-34,31341,4858,625318,728977,1292329.01
+West,Rajasthan,Jio Sports,Kabaddi,Pro Kabaddi League,May,1814694,58.9,Female,15-24,34949,590,643961,1170733,1859664.98
+West,Rajasthan,Jio Sports,Football,ISL,Oct,692510,64.5,Female,15-24,22398,1982,312712,379798,938649.11
+North,Haryana,Jio Sports,Badminton,India Open,Sep,678177,101.9,Male,35-44,38298,781,325019,353158,820283.06
+East,Odisha,DD Sports,Hockey,Hockey India League,Dec,1538303,42.4,Male,35-44,30320,4440,508921,1029382,2078380.29
+North,Haryana,ESPN India,Kabaddi,Pro Kabaddi League,Oct,1532526,68.9,Male,35-44,49940,3348,676263,856263,1072420.61
+West,Gujarat,Sony Sports,Badminton,India Open,Jun,490420,21.4,Female,25-34,9219,2085,111038,379382,457207.18
+West,Maharashtra,ESPN India,Badminton,India Open,Mar,551233,110.3,Male,35-44,40932,2697,206903,344330,351115.14
+West,Goa,Star Sports,Football,ISL,Aug,1468314,113.9,Female,15-24,6622,1478,476544,991770,868291.74
+North,Punjab,Sony Sports,Kabaddi,Pro Kabaddi League,Sep,776546,72.8,Male,25-34,8036,1158,242512,534034,1432620.2
+East,Odisha,Jio Sports,Kabaddi,Pro Kabaddi League,Oct,72499,66.9,Female,25-34,28773,4686,30257,42242,100203.8
+South,Kerala,Sony Sports,Football,Santosh Trophy,Jun,735967,100.1,Female,15-24,5818,4723,236184,499783,694474.17
+West,Rajasthan,Jio Sports,Hockey,Hockey India League,Mar,1650328,34.0,Male,25-34,19255,1562,541907,1108421,1777566.42
+East,Bihar,Sony Sports,Kabaddi,Pro Kabaddi League,Jan,1975464,76.7,Female,15-24,6753,1614,658738,1316726,1247865.75
+South,Tamil Nadu,Jio Sports,Cricket,World Cup,May,1951545,90.1,Female,25-34,22435,2747,523402,1428143,2147615.27
+East,Bihar,Sony Sports,Football,Santosh Trophy,Feb,1521816,55.7,Male,15-24,2191,2768,484772,1037044,2584018.72
+North,Punjab,Star Sports,Cricket,IPL,Dec,633043,49.9,Female,15-24,7008,3432,266006,367037,852636.73
+East,Odisha,Jio Sports,Hockey,Hockey India League,Mar,1894881,100.7,Male,35-44,40683,3360,443831,1451050,1763815.52
+South,Andhra Pradesh,Sony Sports,Badminton,India Open,Feb,1587031,48.6,Male,15-24,16103,4716,489526,1097505,1121149.48
+East,Bihar,DD Sports,Kabaddi,Pro Kabaddi League,Jul,1944666,29.5,Female,35-44,13940,3439,843606,1101060,2012451.2
+West,Gujarat,DD Sports,Badminton,India Open,Mar,500043,94.8,Male,35-44,28777,1881,136306,363737,558059.96
+South,Andhra Pradesh,ESPN India,Kabaddi,Pro Kabaddi League,Jun,984678,99.4,Female,35-44,18558,3840,309080,675598,940444.61
+East,Bihar,DD Sports,Kabaddi,Pro Kabaddi League,Dec,705538,30.9,Female,15-24,1798,887,165176,540362,769271.37
+East,West Bengal,DD Sports,Kabaddi,Pro Kabaddi League,May,1537056,116.3,Male,35-44,31329,3018,684394,852662,2225701.37
+Central,Chhattisgarh,DD Sports,Football,Santosh Trophy,May,209094,47.8,Male,35-44,30265,3033,72904,136190,202800.21
+Central,Chhattisgarh,DD Sports,Kabaddi,Pro Kabaddi League,May,1451156,57.6,Male,15-24,1893,1490,624480,826676,2731467.53
+South,Karnataka,ESPN India,Tennis,India Tennis Cup,May,333007,53.9,Female,25-34,2515,3017,75668,257339,486973.74
+South,Kerala,Star Sports,Badminton,Asia Championships,Nov,819565,21.6,Female,25-34,22493,4427,326374,493191,1408493.01
+Central,Chhattisgarh,DD Sports,Badminton,Asia Championships,May,1659425,99.9,Male,25-34,2577,1396,671930,987495,1582592.75
+East,Bihar,DD Sports,Cricket,World Cup,Sep,1337116,97.4,Male,45+,7691,4092,319044,1018072,2497368.92
+South,Tamil Nadu,Jio Sports,Tennis,India Tennis Cup,Sep,1509089,86.7,Male,25-34,2462,2478,326707,1182382,1910288.78
+Central,Madhya Pradesh,ESPN India,Badminton,Asia Championships,Mar,1441730,21.7,Female,45+,14386,1289,588494,853236,731979.93
+North,Punjab,DD Sports,Tennis,India Tennis Cup,Nov,466690,49.5,Female,15-24,26783,1994,100005,366685,759648.92
+East,Assam,DD Sports,Football,ISL,Jul,1865879,45.4,Male,35-44,6178,1744,445245,1420634,2906221.03
+East,Assam,ESPN India,Cricket,World Cup,Sep,1246222,82.9,Male,25-34,45066,478,592467,653755,1816400.8
+North,Delhi,ESPN India,Badminton,India Open,Jan,121916,90.3,Female,35-44,1463,1066,58997,62919,131071.37
+Central,Madhya Pradesh,Star Sports,Tennis,Chennai Open,Mar,1380728,86.0,Female,35-44,9881,2722,350477,1030251,2182345.54
+East,Odisha,Jio Sports,Cricket,Ranji Trophy,Aug,1645368,65.1,Female,25-34,12695,1512,670715,974653,3244439.29
+East,Odisha,ESPN India,Cricket,World Cup,Apr,1596242,26.1,Male,25-34,9307,546,458415,1137827,2487668.28
+South,Andhra Pradesh,DD Sports,Kabaddi,Pro Kabaddi League,Oct,1411212,107.3,Female,35-44,45659,1173,551933,859279,1353989.46
+East,Assam,Star Sports,Cricket,World Cup,Oct,1872193,115.9,Female,35-44,40182,4757,909589,962604,2709183.03
+South,Kerala,DD Sports,Kabaddi,Pro Kabaddi League,Oct,270935,81.1,Female,35-44,22452,1083,78963,191972,532762.5
+North,Haryana,DD Sports,Tennis,Chennai Open,Mar,518668,16.1,Female,15-24,30424,1124,237667,281001,303028.16
+West,Maharashtra,Star Sports,Kabaddi,Pro Kabaddi League,Feb,1201054,51.1,Female,25-34,24649,1205,471825,729229,1394420.48
+West,Maharashtra,DD Sports,Hockey,Hockey India League,Aug,186668,27.8,Female,45+,22029,2161,91471,95197,368503.04
+Central,Chhattisgarh,ESPN India,Kabaddi,Pro Kabaddi League,Sep,1653969,84.6,Female,25-34,12357,4535,790582,863387,1874423.8
+South,Karnataka,DD Sports,Badminton,Asia Championships,Jul,1750596,109.0,Female,25-34,7449,2781,445900,1304696,2643959.92
+Central,Chhattisgarh,ESPN India,Cricket,World Cup,Jun,714490,41.9,Female,15-24,37993,696,259068,455422,1065445.91
+East,Assam,Star Sports,Cricket,World Cup,Jun,1205933,119.6,Female,25-34,23852,3831,387328,818605,605939.89
+West,Rajasthan,Sony Sports,Hockey,Hockey India League,Jul,1932930,36.4,Female,45+,40620,1549,934727,998203,1603273.41
+Central,Madhya Pradesh,Star Sports,Cricket,World Cup,Feb,1025112,68.9,Female,25-34,25277,2821,342237,682875,770599.13
+Central,Chhattisgarh,DD Sports,Football,ISL,Jan,1108213,107.0,Male,15-24,27950,612,310458,797755,752156.36
+South,Andhra Pradesh,Sony Sports,Kabaddi,Pro Kabaddi League,Oct,847955,22.7,Female,15-24,44066,1667,362372,485583,1328322.73
+Central,Madhya Pradesh,Star Sports,Hockey,Hockey India League,Jul,584633,18.7,Male,15-24,29229,2465,272918,311715,496407.51
+East,West Bengal,DD Sports,Hockey,Hockey India League,Jun,563622,43.8,Male,25-34,48116,3611,154952,408670,960187.95
+West,Goa,Sony Sports,Tennis,India Tennis Cup,Jul,1871644,87.1,Male,35-44,38052,525,520828,1350816,3399239.01
+Central,Chhattisgarh,ESPN India,Kabaddi,Pro Kabaddi League,Sep,1056225,16.0,Male,45+,3809,925,253694,802531,587838.42
+Central,Madhya Pradesh,ESPN India,Football,Santosh Trophy,Nov,1985430,118.6,Male,45+,30991,4665,704888,1280542,3323113.89
+North,Uttar Pradesh,ESPN India,Cricket,World Cup,Dec,1218451,105.0,Male,15-24,3410,1920,246565,971886,1900245.0
+West,Maharashtra,Star Sports,Hockey,Hockey India League,Feb,1616541,49.2,Female,25-34,8465,2838,391804,1224737,852584.1
+East,Bihar,DD Sports,Cricket,IPL,Feb,1453411,15.1,Female,15-24,16424,340,365886,1087525,1025427.05
+West,Maharashtra,Jio Sports,Kabaddi,Pro Kabaddi League,Sep,1405182,60.0,Female,45+,37536,1050,624637,780545,1174573.2
+Central,Chhattisgarh,Star Sports,Tennis,India Tennis Cup,Nov,1776749,117.6,Female,25-34,19557,3584,654565,1122184,2853663.07
+East,Assam,Star Sports,Tennis,India Tennis Cup,Mar,1854841,115.1,Male,35-44,3159,2549,867992,986849,1755561.41
+West,Rajasthan,Star Sports,Tennis,India Tennis Cup,Aug,971872,85.8,Male,45+,2230,1233,394203,577669,1821007.62
+Central,Madhya Pradesh,Jio Sports,Football,ISL,Apr,733970,28.0,Male,15-24,41875,1605,227185,506785,1368225.96
+Central,Chhattisgarh,Sony Sports,Kabaddi,Pro Kabaddi League,Jul,854732,105.8,Female,45+,36525,2056,416407,438325,647728.53
+North,Punjab,DD Sports,Kabaddi,Pro Kabaddi League,Jan,1992400,105.3,Female,25-34,9683,160,848587,1143813,2439249.32
+South,Tamil Nadu,Jio Sports,Football,Santosh Trophy,Feb,1645929,95.8,Male,15-24,39591,4060,570259,1075670,2805439.82
+West,Rajasthan,ESPN India,Hockey,Hockey India League,Jun,1446102,44.8,Male,45+,40725,1104,636624,809478,1576223.71
+Central,Chhattisgarh,Sony Sports,Hockey,Hockey India League,Aug,572829,77.2,Male,45+,33769,1133,209864,362965,453342.8
+East,Bihar,Sony Sports,Hockey,Hockey India League,Feb,1869728,98.6,Female,35-44,44880,228,652529,1217199,1371744.44
+Central,Madhya Pradesh,Star Sports,Badminton,Asia Championships,Sep,781636,98.3,Male,15-24,18285,3268,296671,484965,437495.08
+Central,Chhattisgarh,Jio Sports,Football,ISL,Dec,317673,42.4,Female,35-44,7937,647,138833,178840,244176.94
+East,Assam,Jio Sports,Football,ISL,Mar,599567,89.1,Male,45+,49257,1690,278951,320616,1045480.54
+Central,Chhattisgarh,Jio Sports,Hockey,Hockey India League,Jun,1463967,55.1,Female,15-24,41860,3325,301025,1162942,2418407.56
+East,Odisha,DD Sports,Hockey,Hockey India League,Aug,687506,30.3,Female,35-44,24110,2662,304150,383356,1195512.01
+North,Punjab,Sony Sports,Kabaddi,Pro Kabaddi League,Oct,1219694,22.2,Female,25-34,49128,3744,314096,905598,1183779.73
+South,Tamil Nadu,Jio Sports,Cricket,Ranji Trophy,Aug,1731119,80.0,Male,15-24,36929,4421,384495,1346624,2654178.93
+Central,Madhya Pradesh,Star Sports,Kabaddi,Pro Kabaddi League,Feb,816868,28.9,Female,35-44,11313,4178,314791,502077,775899.12
+South,Andhra Pradesh,Sony Sports,Football,ISL,May,981775,76.6,Female,25-34,23559,3698,216102,765673,1609096.12
+East,Assam,Jio Sports,Badminton,India Open,Jul,1180779,64.2,Male,15-24,21977,1565,518095,662684,909480.82
+South,Andhra Pradesh,DD Sports,Cricket,World Cup,Jun,924609,51.0,Male,15-24,8382,2594,217186,707423,1260869.69
+North,Punjab,Star Sports,Football,ISL,Jun,646682,79.0,Female,35-44,21906,3288,312528,334154,698552.92
+West,Maharashtra,ESPN India,Badminton,Asia Championships,Dec,111868,36.7,Male,15-24,32376,4923,37628,74240,208772.47
+South,Kerala,Jio Sports,Hockey,Hockey India League,Sep,856017,40.8,Female,35-44,40895,3820,325988,530029,868222.47
+North,Uttar Pradesh,DD Sports,Badminton,Asia Championships,Sep,735328,116.4,Female,45+,20385,1838,331995,403333,632624.11
+South,Karnataka,ESPN India,Kabaddi,Pro Kabaddi League,Jan,1819361,73.2,Male,15-24,36089,595,426925,1392436,1732385.7
+East,Assam,Jio Sports,Hockey,Hockey India League,Sep,1131900,54.1,Female,35-44,33924,834,454626,677274,572464.9
+South,Tamil Nadu,Sony Sports,Badminton,India Open,Aug,286538,77.7,Female,15-24,23634,3376,79836,206702,253756.34
+Central,Madhya Pradesh,ESPN India,Football,Santosh Trophy,Jul,877150,106.6,Female,35-44,15259,4924,381584,495566,1348288.39
+South,Karnataka,DD Sports,Cricket,World Cup,Sep,188925,61.7,Female,25-34,19100,3302,39965,148960,194115.68
+East,West Bengal,Sony Sports,Hockey,Hockey India League,May,1633913,46.4,Female,45+,48691,4372,545617,1088296,1582098.07
+Central,Chhattisgarh,Jio Sports,Football,ISL,Jan,107986,104.1,Male,15-24,20810,3883,39944,68042,182593.82
+West,Gujarat,ESPN India,Tennis,India Tennis Cup,May,369348,50.6,Male,45+,40779,4603,118038,251310,652844.56
+West,Goa,Sony Sports,Kabaddi,Pro Kabaddi League,May,195213,17.1,Female,15-24,30813,2611,71490,123723,211064.24
+East,Assam,Sony Sports,Tennis,Chennai Open,Jun,1826839,52.5,Female,15-24,39799,4343,502949,1323890,1424257.95
+Central,Madhya Pradesh,DD Sports,Kabaddi,Pro Kabaddi League,Mar,1536056,26.8,Female,45+,46254,4733,667052,869004,829933.33
+Central,Madhya Pradesh,Sony Sports,Football,Santosh Trophy,Oct,525859,116.6,Female,25-34,29412,4093,228849,297010,1017906.45
+North,Delhi,ESPN India,Hockey,Hockey India League,Jan,1541341,46.5,Female,35-44,22209,655,398159,1143182,2009063.63
+West,Gujarat,ESPN India,Kabaddi,Pro Kabaddi League,Oct,594333,61.9,Male,35-44,27905,2059,252205,342128,332171.27
+South,Andhra Pradesh,DD Sports,Hockey,Hockey India League,May,1050904,50.0,Male,25-34,16613,1399,412598,638306,1673222.71
+West,Gujarat,Jio Sports,Football,ISL,Dec,710354,88.6,Female,15-24,27111,177,250252,460102,966326.46
+South,Karnataka,Jio Sports,Tennis,Chennai Open,Feb,1478129,69.1,Female,25-34,2996,3527,323685,1154444,1003755.3
+South,Andhra Pradesh,ESPN India,Tennis,Chennai Open,Jan,935259,79.5,Female,45+,16732,3222,231354,703905,736614.03
+South,Tamil Nadu,Star Sports,Tennis,Chennai Open,Jun,1430831,50.7,Female,35-44,24706,915,348602,1082229,1479679.04
+South,Tamil Nadu,Sony Sports,Cricket,Ranji Trophy,Jul,946068,60.2,Female,15-24,13665,634,421431,524637,1592737.9
+North,Delhi,Star Sports,Football,Santosh Trophy,May,348254,45.1,Female,35-44,47233,4600,159444,188810,564876.39
+North,Uttar Pradesh,Jio Sports,Tennis,India Tennis Cup,Jan,501448,105.1,Male,35-44,20324,646,166520,334928,481090.13
+North,Delhi,ESPN India,Cricket,IPL,Jun,1909062,112.7,Male,45+,1363,2266,542606,1366456,1695927.47
+Central,Chhattisgarh,Star Sports,Hockey,Hockey India League,Jun,446456,25.6,Male,25-34,26538,3105,113180,333276,766724.79
+Central,Chhattisgarh,DD Sports,Football,Santosh Trophy,Dec,1512016,78.1,Male,35-44,47476,965,499986,1012030,1617261.55
+North,Delhi,DD Sports,Badminton,Asia Championships,Aug,78885,76.2,Male,25-34,33786,741,18183,60702,53809.22
+West,Rajasthan,ESPN India,Hockey,Hockey India League,Feb,1893529,35.2,Female,45+,28518,2667,610635,1282894,1741013.72
+South,Kerala,Jio Sports,Tennis,India Tennis Cup,May,650699,35.7,Male,35-44,10327,973,223975,426724,751146.78
+South,Andhra Pradesh,Jio Sports,Kabaddi,Pro Kabaddi League,Aug,498013,93.7,Female,35-44,10045,3832,121117,376896,351232.51
+South,Karnataka,Star Sports,Badminton,India Open,Aug,1697069,111.9,Male,25-34,29806,4605,373593,1323476,2724981.35
+West,Maharashtra,Star Sports,Badminton,Asia Championships,Oct,444485,48.2,Female,25-34,39729,1569,107234,337251,230245.25
